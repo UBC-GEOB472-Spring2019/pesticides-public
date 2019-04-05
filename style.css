@@ -1,0 +1,177 @@
+@import url('https://fonts.googleapis.com/css?family=Tangerine|Bellefair:400,500,700');
+
+html, body {
+	height: 100%;
+	width: 100%;
+	font-family: 'Bellefair', sans-serif;
+	color: #222;
+}
+
+/*--Navigation--*/
+.navbar {
+	padding: .3rem; /* 1 rem = 16 px */
+
+}
+
+.navbar-nav li {
+	padding-right: 20px;
+}
+
+.nav-link {
+	font-size: 2em !important;
+	font-weight: bold;
+	font-family: 'Tangerine';
+}
+
+
+/*--Carousel slider --*/
+#slides {
+	padding-top: 50px;
+}
+
+.carousel-inner img {
+	width: 100%;
+	height: 100%;
+}
+
+.carousel-caption {
+	position: absolute;
+	top: 50%; /* to make it go up 50% */
+	transform: translateY(-50%); /*move the Y axis up even higher*/
+}
+
+.carousel-caption h1 {
+	font-size: 6vw;
+	font-weight: bold;
+	text-transform: uppercase;
+	text-shadow: 1px 1px 10px #000;
+}
+
+.carousel-caption h3 {
+	font-family: 'Tangerine';
+	font-size: 5vw;
+	text-shadow: 1px 1px 10px #000;
+}
+
+
+/*-- About --*/
+.padding {
+	padding: 20px;
+}
+.padding h2 {
+	margin-top: 50px;
+	font-family: 'Tangerine';
+	font-size: 250%;
+	font-weight: bold;
+}
+
+.padding p {
+	font-size: 130%;
+	padding-top: 10px;
+}
+
+/*-- Destinations --*/
+
+.text-center h1 {
+	padding-top: 5rem;
+	font-family: 'Tangerine';
+	font-size: 300%;
+	font-weight: bold;
+}
+
+.text-center hr {
+	border-top: solid #b4b4b4;
+	border-width: 1px;
+	width: 50%;
+	margin-top: .3rem;
+	margin-bottom: 1rem;
+}
+
+.row h3 {
+	text-align: center;
+	font-size: 175%;
+	font-weight: bold;
+	padding-top: 3rem;
+
+}
+
+.box {
+	margin: 50px;
+	transition: .5s;
+}
+
+.imgBox1 {
+	margin-top: 50px;
+	position: relative;
+	width: 250px;
+	height: 250px;
+	overflow: hidden;
+	background: linear-gradient(rgba(0,0,0,0.2), rgba(0,0,0,0.2)),
+	url(https://c1.staticflickr.com/5/4797/38902613050_e348ea3014.jpg);
+	background-size:cover;
+	background-position: center;
+	border-radius: 10px;
+	box-shadow: 0 5px 15px rgba(0,0,0,0.8);
+	transition: .5s;
+}
+
+.imgBox2 {
+	margin-top: 50px;
+	position: relative;
+	width: 250px;
+	height: 250px;
+	overflow: hidden;
+	background: linear-gradient(rgba(0,0,0,0.2), rgba(0,0,0,0.2)),
+	url(https://c1.staticflickr.com/5/4789/40713999022_e106eb217a_o.jpg);
+	background-size:cover;
+	background-position: center;
+	border-radius: 10px;
+	box-shadow: 0 5px 15px rgba(0,0,0,0.8);
+	transition: .5s;
+}
+
+.imgBox3 {
+	margin-top: 50px;
+	position: relative;
+	width: 250px;
+	height: 250px;
+	overflow: hidden;
+	background: linear-gradient(rgba(0,0,0,0.2), rgba(0,0,0,0.2)),
+	url(https://c1.staticflickr.com/1/787/39017294270_c87828b3f7_c.jpg);
+	background-size:cover;
+	background-position: center;
+	border-radius: 10px;
+	box-shadow: 0 5px 15px rgba(0,0,0,0.8);
+	transition: .5s;
+}
+
+
+.box h4 {
+	color: white;
+	font-style: bold;
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	transform: translate(-50%, -50%);
+	font-size: 200%;
+}
+
+.box:hover  {
+	transform: scale(1.05);
+}
+
+
+/*Footer*/
+.footer {
+	text-align: right;
+	font-family: sans-serif;
+	font-size: 12px;
+	padding: 0.1rem;
+	background: rgba(0,0,0,0.45);
+}
+
+.footer p {
+	color: #AEB6BF;
+	margin-top: 10px;
+	margin-right: 10px;
+}
