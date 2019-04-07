@@ -3,7 +3,7 @@
 html, body {
 	height: 100%;
 	width: 100%;
-	font-family: 'Bellefair', sans-serif;
+	font-family: 'Hoefler Text', serif;
 	color: #222;
 }
 
@@ -103,11 +103,11 @@ html, body {
 .imgBox1 {
 	margin-top: 50px;
 	position: relative;
-	width: 250px;
-	height: 250px;
+	width: 300px;
+	height: 300px;
 	overflow: hidden;
 	background: linear-gradient(rgba(0,0,0,0.2), rgba(0,0,0,0.2)),
-	url(https://c1.staticflickr.com/5/4797/38902613050_e348ea3014.jpg);
+	url(https://live.staticflickr.com/7854/47505123032_83dd2d0a0b_n.jpg);
 	background-size:cover;
 	background-position: center;
 	border-radius: 10px;
@@ -118,8 +118,8 @@ html, body {
 .imgBox2 {
 	margin-top: 50px;
 	position: relative;
-	width: 250px;
-	height: 250px;
+	width: 300px;
+	height: 300px;
 	overflow: hidden;
 	background: linear-gradient(rgba(0,0,0,0.2), rgba(0,0,0,0.2)),
 	url(https://c1.staticflickr.com/5/4789/40713999022_e106eb217a_o.jpg);
@@ -133,8 +133,8 @@ html, body {
 .imgBox3 {
 	margin-top: 50px;
 	position: relative;
-	width: 250px;
-	height: 250px;
+	width: 300px;
+	height: 300px;
 	overflow: hidden;
 	background: linear-gradient(rgba(0,0,0,0.2), rgba(0,0,0,0.2)),
 	url(https://c1.staticflickr.com/1/787/39017294270_c87828b3f7_c.jpg);
@@ -153,7 +153,7 @@ html, body {
 	top: 50%;
 	left: 50%;
 	transform: translate(-50%, -50%);
-	font-size: 200%;
+	font-size: 150%;
 }
 
 .box:hover  {

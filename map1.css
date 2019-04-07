@@ -1,0 +1,24 @@
+@import url('https://fonts.googleapis.com/css?family=Tangerine|Bellefair:400,500,700');
+
+html, body {
+	height: 100%;
+	width: 100%;
+	font-family: 'Bellefair', sans-serif;
+	color: #222;
+}
+
+/*--Navigation--*/
+.navbar {
+	padding: .3rem; /* 1 rem = 16 px */
+
+}
+
+.navbar-nav li {
+	padding-right: 20px;
+}
+
+.nav-link {
+	font-size: 2em !important;
+	font-weight: bold;
+	font-family: 'Tangerine';
+}
