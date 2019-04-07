@@ -1,0 +1,297 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset='utf-8' />
+<title>Population Suffering from Degenerative Diseases</title>
+<meta name='viewport' content='initial-scale=1,maximum-scale=1,user-scalable=no' />
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css">
+<script src='https://api.tiles.mapbox.com/mapbox-gl-js/v0.53.1/mapbox-gl.js'></script>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js"></script>
+	<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.1.3/js/bootstrap.min.js"></script>
+
+<link href="map1.css" rel="stylesheet">
+<style>
+
+body { margin:0; padding:0; }
+#map { position:absolute; top:0; bottom:0; width:100%; }
+body {
+  margin: 0;
+  padding: 0;
+  font-family: 'Helvetica Neue', Helvetica, Arial, Sans-serif;
+}
+#map {
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  width: 100%;
+  height: 100%;
+}
+h1 {
+  font-size: 20px;
+  line-height: 20px;
+}
+h2 {
+  font-size: 14px;
+  line-height: 10px;
+  margin-bottom: 10px;
+}
+a {
+  text-decoration: none;
+  color: #2dc4b2;
+}
+#console {
+  position: absolute;
+  width: 400px;
+  top: 100px;
+  margin: 10px;
+  padding: 10px 20px;
+  background-color: grey;
+  opacity: 0.7;
+}
+.session {
+margin-bottom: 180px;
+}
+.row {
+height: 20px;
+width: 100%;
+}
+.colors {
+background: linear-gradient(to right,#e0931f,#d5591a,#e60000,#800a23);
+margin-bottom: 5px;
+}
+.label {
+width: 22%;
+display: inline-block;
+text-align: center;
+}
+</style>
+</head>
+<body>
+  <!---Navigation-->
+  <nav class="navbar navbar-expand-md navbar-light bg-light fixed-top">
+  <div class="container-fluid"> <!--container fluid = 100% of the screen-->
+
+
+  	<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarResponsive">
+  		<span class="navbar-toggler-icon"></span>
+  	</button>
+
+  	<div class="collapse navbar-collapse" id="navbarResponsive">
+  		<ul class="navbar-nav ml-auto"> <!--ml-auto = push the navbar titles to right hand side-->
+  			<li class="nav-item active">
+  				<a class="nav-link" href="index.html">Home</a>
+  			</li>
+  			<li class="nav-item">
+  				<a class="nav-link" href="#Essay">Map 2</a>
+  			</li>
+  			<li class="nav-item">
+  				<a class="nav-link" href="#Summary">Map 3</a>
+  			</li>
+  		</ul>
+  	</div>
+  </div>
+  </nav>
+
+<div id='map'></div>
+<div id='console'>
+<h1>Population Suffering from Degenerative Disease</h1>
+<div class='session'>
+<h2>2016</h2>
+<div class='row colors'>
+</div>
+<div class='row labels'>
+  <div class='label'>20000</div>
+  <div class='label'>130000</div>
+  <div class='label'>360000</div>
+  <div class='label'>640000</div>
+  <div class='map-overlay' id='allinfo'><div id='pd'><h2>Hover over a point for more information!<h2></div>
+</div>
+</div>
+</style>
+</head>
+<body>
+
+<style>
+#menu {
+background: #fff;
+position: absolute;
+z-index: 1;
+top: 350px;
+right: 280px;
+border-radius: 3px;
+width: 120px;
+border: 1px solid rgba(0,0,0,0.4);
+font-family: 'Open Sans', sans-serif;
+}
+
+#menu a {
+font-size: 13px;
+color: #404040;
+display: block;
+margin: 0;
+padding: 0;
+padding: 10px;
+text-decoration: none;
+border-bottom: 1px solid rgba(0,0,0,0.25);
+text-align: center;
+}
+
+#menu a:last-child {
+border: none;
+}
+
+#menu a:hover {
+background-color: #f8f8f8;
+color: #404040;
+}
+
+#menu a.active {
+background-color: #3887be;
+color: #ffffff;
+}
+
+#menu a.active:hover {
+background: #3074a4;
+}
+</style>
+
+<nav id="menu"></nav>
+<div id="map"></div>
+
+<script>
+mapboxgl.accessToken = 'pk.eyJ1IjoibnN1a3VtYXIiLCJhIjoiY2pyNWRuN2tkMDB2YjQ1cGJkaDNkdWtmaiJ9.kTF8Lyz0fZl7QWbFLwCSIQ';
+const map = new mapboxgl.Map({
+  container: 'map',
+  style: 'mapbox://styles/nsukumar/cjsgyj6i53uyl1fnwyqsspix5',
+  center: [-105.973705, 40],
+  zoom: 1.5
+});
+map.on('load', function () {
+  var filterYear = ['==', ['number', ['get', 'diabetes']],'1']
+var layers = map.getStyle().layers;
+// Find the index of the first symbol layer in the map style
+var firstSymbolId;
+for (var i = 0; i < layers.length; i++) {
+if (layers[i].type === 'symbol') {
+firstSymbolId = layers[i].id;
+break;
+}
+}
+map.addLayer({
+'id': 'diabetes',
+'type': 'fill',
+'source': {
+'type': 'geojson',
+'data': 'https://raw.githubusercontent.com/Biimii/Biimii-web/master/geob472project/features.geojson'
+},
+//'layout': {},
+'paint': {
+'fill-color': [
+  'interpolate',
+  ['linear'],
+  ['number',['get', 'diabetes']],
+  20000, '#e0931f' ,
+  130000,'#d5591a',
+  360000, '#e60000',
+  640000, '#800a23',
+],
+'fill-opacity': 0.7
+}
+}, firstSymbolId);
+map.addLayer({
+'id': 'parkinsons',
+'type': 'fill',
+'source': {
+'type': 'geojson',
+'data': 'https://raw.githubusercontent.com/Biimii/Biimii-web/master/geob472project/features.geojson'
+},
+//'layout': {},
+'paint': {
+'fill-color': [
+  'interpolate',
+  ['linear'],
+  ['number',['get', 'diabetes']],
+  88000, '#e0931f' ,
+  320000,'#d5591a',
+  870000, '#e60000',
+  1600000, '#800a23',
+],
+'fill-opacity': 0.7
+}
+}, firstSymbolId);
+map.addLayer({
+'id': 'neoplastic',
+'type': 'fill',
+'source': {
+'type': 'geojson',
+'data': 'https://raw.githubusercontent.com/Biimii/Biimii-web/master/geob472project/features.geojson'
+},
+//'layout': {},
+'paint': {
+'fill-color': [
+  'interpolate',
+  ['linear'],
+  ['number',['get', 'diabetes']],
+  9800, '#e0931f' ,
+  28600,'#d5591a',
+  70400, '#e60000',
+  140000, '#800a23',
+],
+'fill-opacity': 0.7
+}
+}, firstSymbolId);
+});
+
+var toggleableLayerIds = [ 'diabetes', 'neoplastic', 'parkinsons'];
+
+for (var i = 0; i < toggleableLayerIds.length; i++) {
+var id = toggleableLayerIds[i];
+
+var link = document.createElement('a');
+link.href = '#';
+link.className = 'active';
+link.textContent = id;
+
+link.onclick = function (e) {
+var clickedLayer = this.textContent;
+e.preventDefault();
+e.stopPropagation();
+
+var visibility = map.getLayoutProperty(clickedLayer, 'visibility');
+
+if (visibility === 'visible') {
+map.setLayoutProperty(clickedLayer, 'visibility', 'none');
+this.className = '';
+} else {
+this.className = 'active';
+map.setLayoutProperty(clickedLayer, 'visibility', 'visible');
+}
+};
+
+var layers = document.getElementById('menu');
+layers.appendChild(link);
+}
+  map.on('mousemove', function (e) {
+var features = map.queryRenderedFeatures(e.point,
+   {
+    layers: ['diabetes']
+  });
+   console.log(features)
+   if (features.length > 0) {
+    document.getElementById('pd').innerHTML = '<p><strong><em>' +
+      features[0].properties.name + '</strong></em></p>' + '<p><strong><em>' +
+      features[0].properties.diabetes + '</strong> Total DALY Diabetes</em></p>' + '<p><strong><em>' +
+      features[0].properties.parkinsons + '</strong> Total DALY Parkinsons</em></p>'+ '<p><strong><em>' +
+      features[0].properties.neoplastic + '</strong> Total DALY Neoplastic</em></p>' + '<p><strong><em>' +
+      features[0].properties.pesticide_use + '</strong> Pesticide used in kg/ha</em></p>'
+     ;
+  } else {
+    document.getElementById('pd').innerHTML = '<p>Hover over a country for more information!</p>';
+  }
+});
+
+</script>
+
+</body>
+</html>
