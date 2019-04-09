@@ -64,9 +64,9 @@ body {
 }
 
 #header {
-  position: absolute;
+  position: relative;
   left: 5px;
-  top: 5px;
+  top: 70px;
 }
 
 #footer {
