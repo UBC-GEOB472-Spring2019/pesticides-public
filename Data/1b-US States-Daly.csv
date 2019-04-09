@@ -1,0 +1,511 @@
+measure_id,measure_name,location_id,location_name,sex_id,sex_name,age_id,age_name,cause_id,cause_name,metric_id,metric_name,year,val,upper,lower
+2,DALYs (Disability-Adjusted Life Years),523,Alabama,3,Both,22,All Ages,417,Liver cancer,1,Number,2016,10719.65553,11568.01355,9904.029279
+2,DALYs (Disability-Adjusted Life Years),523,Alabama,3,Both,22,All Ages,429,Breast cancer,1,Number,2016,22460.59151,24990.17731,20283.01808
+2,DALYs (Disability-Adjusted Life Years),523,Alabama,3,Both,22,All Ages,456,Pancreatic cancer,1,Number,2016,17239.87871,18604.6456,16109.67633
+2,DALYs (Disability-Adjusted Life Years),523,Alabama,3,Both,22,All Ages,459,Malignant skin melanoma,1,Number,2016,4958.040237,6812.167675,3617.558247
+2,DALYs (Disability-Adjusted Life Years),523,Alabama,3,Both,22,All Ages,471,Kidney cancer,1,Number,2016,6344.712223,7255.83182,5679.599733
+2,DALYs (Disability-Adjusted Life Years),523,Alabama,3,Both,22,All Ages,474,Bladder cancer,1,Number,2016,5277.572068,5711.433926,4857.856573
+2,DALYs (Disability-Adjusted Life Years),523,Alabama,3,Both,22,All Ages,480,Thyroid cancer,1,Number,2016,858.870973,966.5703048,763.7416723
+2,DALYs (Disability-Adjusted Life Years),523,Alabama,3,Both,22,All Ages,487,Leukemia,1,Number,2016,10721.88723,11629.3721,9972.497299
+2,DALYs (Disability-Adjusted Life Years),523,Alabama,3,Both,22,All Ages,974,Diabetes and kidney diseases,1,Number,2016,111002.9324,129694.7287,94977.96727
+2,DALYs (Disability-Adjusted Life Years),523,Alabama,3,Both,22,All Ages,544,Parkinson's disease,1,Number,2016,6380.979483,6942.655747,5559.238586
+2,DALYs (Disability-Adjusted Life Years),524,Alaska,3,Both,22,All Ages,417,Liver cancer,1,Number,2016,1262.311738,1392.863957,1148.178139
+2,DALYs (Disability-Adjusted Life Years),524,Alaska,3,Both,22,All Ages,429,Breast cancer,1,Number,2016,2359.084988,2617.505705,2125.107231
+2,DALYs (Disability-Adjusted Life Years),524,Alaska,3,Both,22,All Ages,544,Parkinson's disease,1,Number,2016,707.0145206,774.9092047,551.225298
+2,DALYs (Disability-Adjusted Life Years),524,Alaska,3,Both,22,All Ages,456,Pancreatic cancer,1,Number,2016,1812.73999,1966.69032,1675.388593
+2,DALYs (Disability-Adjusted Life Years),524,Alaska,3,Both,22,All Ages,459,Malignant skin melanoma,1,Number,2016,570.4981404,885.0089428,455.4940564
+2,DALYs (Disability-Adjusted Life Years),524,Alaska,3,Both,22,All Ages,471,Kidney cancer,1,Number,2016,790.5389384,888.7260404,702.3180242
+2,DALYs (Disability-Adjusted Life Years),524,Alaska,3,Both,22,All Ages,474,Bladder cancer,1,Number,2016,583.4622556,638.2025324,536.1316309
+2,DALYs (Disability-Adjusted Life Years),524,Alaska,3,Both,22,All Ages,480,Thyroid cancer,1,Number,2016,112.2679977,127.6200789,98.90116771
+2,DALYs (Disability-Adjusted Life Years),524,Alaska,3,Both,22,All Ages,487,Leukemia,1,Number,2016,1059.502186,1182.295549,979.6412232
+2,DALYs (Disability-Adjusted Life Years),524,Alaska,3,Both,22,All Ages,974,Diabetes and kidney diseases,1,Number,2016,9893.723127,11842.13205,8218.524851
+2,DALYs (Disability-Adjusted Life Years),525,Arizona,3,Both,22,All Ages,544,Parkinson's disease,1,Number,2016,9420.801371,10318.95243,7211.474747
+2,DALYs (Disability-Adjusted Life Years),525,Arizona,3,Both,22,All Ages,417,Liver cancer,1,Number,2016,12823.18996,13934.34278,11826.88226
+2,DALYs (Disability-Adjusted Life Years),525,Arizona,3,Both,22,All Ages,480,Thyroid cancer,1,Number,2016,1157.826884,1312.6834,1024.087281
+2,DALYs (Disability-Adjusted Life Years),525,Arizona,3,Both,22,All Ages,487,Leukemia,1,Number,2016,11886.08241,12896.88292,11065.25463
+2,DALYs (Disability-Adjusted Life Years),525,Arizona,3,Both,22,All Ages,429,Breast cancer,1,Number,2016,24424.49803,27176.8682,21994.19435
+2,DALYs (Disability-Adjusted Life Years),525,Arizona,3,Both,22,All Ages,456,Pancreatic cancer,1,Number,2016,18795.61021,20225.55286,17480.98628
+2,DALYs (Disability-Adjusted Life Years),525,Arizona,3,Both,22,All Ages,459,Malignant skin melanoma,1,Number,2016,6161.580437,7674.535566,4354.917838
+2,DALYs (Disability-Adjusted Life Years),525,Arizona,3,Both,22,All Ages,471,Kidney cancer,1,Number,2016,7554.705898,8432.793395,6804.63117
+2,DALYs (Disability-Adjusted Life Years),525,Arizona,3,Both,22,All Ages,474,Bladder cancer,1,Number,2016,6705.017435,7260.727468,6139.674244
+2,DALYs (Disability-Adjusted Life Years),525,Arizona,3,Both,22,All Ages,974,Diabetes and kidney diseases,1,Number,2016,120199.7352,141757.4394,101498.1024
+2,DALYs (Disability-Adjusted Life Years),526,Arkansas,3,Both,22,All Ages,544,Parkinson's disease,1,Number,2016,3644.967886,3962.359748,3292.059645
+2,DALYs (Disability-Adjusted Life Years),526,Arkansas,3,Both,22,All Ages,417,Liver cancer,1,Number,2016,6301.154718,6890.566542,5758.582481
+2,DALYs (Disability-Adjusted Life Years),526,Arkansas,3,Both,22,All Ages,429,Breast cancer,1,Number,2016,12610.53966,14029.09988,11348.45678
+2,DALYs (Disability-Adjusted Life Years),526,Arkansas,3,Both,22,All Ages,456,Pancreatic cancer,1,Number,2016,9435.483725,10274.02593,8674.187038
+2,DALYs (Disability-Adjusted Life Years),526,Arkansas,3,Both,22,All Ages,459,Malignant skin melanoma,1,Number,2016,2932.102532,3937.043241,2106.335673
+2,DALYs (Disability-Adjusted Life Years),526,Arkansas,3,Both,22,All Ages,471,Kidney cancer,1,Number,2016,4312.507227,4847.530789,3868.908705
+2,DALYs (Disability-Adjusted Life Years),526,Arkansas,3,Both,22,All Ages,474,Bladder cancer,1,Number,2016,3359.80031,3653.215234,3072.53307
+2,DALYs (Disability-Adjusted Life Years),526,Arkansas,3,Both,22,All Ages,480,Thyroid cancer,1,Number,2016,549.7641352,622.3002456,489.7930931
+2,DALYs (Disability-Adjusted Life Years),526,Arkansas,3,Both,22,All Ages,487,Leukemia,1,Number,2016,6514.549472,7132.323684,5992.30159
+2,DALYs (Disability-Adjusted Life Years),526,Arkansas,3,Both,22,All Ages,974,Diabetes and kidney diseases,1,Number,2016,63129.22083,73354.29079,54510.68708
+2,DALYs (Disability-Adjusted Life Years),527,California,3,Both,22,All Ages,974,Diabetes and kidney diseases,1,Number,2016,559281.3842,661537.7269,469958.25
+2,DALYs (Disability-Adjusted Life Years),527,California,3,Both,22,All Ages,471,Kidney cancer,1,Number,2016,34383.50685,37550.84006,31709.9725
+2,DALYs (Disability-Adjusted Life Years),527,California,3,Both,22,All Ages,474,Bladder cancer,1,Number,2016,28747.46955,30916.81605,26699.90378
+2,DALYs (Disability-Adjusted Life Years),527,California,3,Both,22,All Ages,480,Thyroid cancer,1,Number,2016,6847.673597,7724.064268,6089.609434
+2,DALYs (Disability-Adjusted Life Years),527,California,3,Both,22,All Ages,487,Leukemia,1,Number,2016,60407.54934,64455.86116,57193.00512
+2,DALYs (Disability-Adjusted Life Years),527,California,3,Both,22,All Ages,544,Parkinson's disease,1,Number,2016,42725.2369,46614.16067,34127.58248
+2,DALYs (Disability-Adjusted Life Years),527,California,3,Both,22,All Ages,417,Liver cancer,1,Number,2016,77872.27387,83774.06249,71973.4885
+2,DALYs (Disability-Adjusted Life Years),527,California,3,Both,22,All Ages,429,Breast cancer,1,Number,2016,129922.9689,142481.2903,117743.2016
+2,DALYs (Disability-Adjusted Life Years),527,California,3,Both,22,All Ages,456,Pancreatic cancer,1,Number,2016,89966.38407,95668.67234,84486.00694
+2,DALYs (Disability-Adjusted Life Years),527,California,3,Both,22,All Ages,459,Malignant skin melanoma,1,Number,2016,28015.92714,40747.09872,22743.839
+2,DALYs (Disability-Adjusted Life Years),528,Colorado,3,Both,22,All Ages,544,Parkinson's disease,1,Number,2016,6172.434135,6783.550917,4857.514738
+2,DALYs (Disability-Adjusted Life Years),528,Colorado,3,Both,22,All Ages,429,Breast cancer,1,Number,2016,16924.08747,18950.0919,15209.33808
+2,DALYs (Disability-Adjusted Life Years),528,Colorado,3,Both,22,All Ages,456,Pancreatic cancer,1,Number,2016,12472.67852,13415.14719,11576.88691
+2,DALYs (Disability-Adjusted Life Years),528,Colorado,3,Both,22,All Ages,459,Malignant skin melanoma,1,Number,2016,4880.695179,6077.613327,3414.10625
+2,DALYs (Disability-Adjusted Life Years),528,Colorado,3,Both,22,All Ages,471,Kidney cancer,1,Number,2016,4888.290049,5366.421531,4418.951767
+2,DALYs (Disability-Adjusted Life Years),528,Colorado,3,Both,22,All Ages,474,Bladder cancer,1,Number,2016,4253.800734,4638.208623,3913.277649
+2,DALYs (Disability-Adjusted Life Years),528,Colorado,3,Both,22,All Ages,417,Liver cancer,1,Number,2016,7930.305972,8647.020388,7250.412921
+2,DALYs (Disability-Adjusted Life Years),528,Colorado,3,Both,22,All Ages,974,Diabetes and kidney diseases,1,Number,2016,60160.60218,71316.47977,50812.41277
+2,DALYs (Disability-Adjusted Life Years),528,Colorado,3,Both,22,All Ages,480,Thyroid cancer,1,Number,2016,826.7707661,936.4283312,719.662841
+2,DALYs (Disability-Adjusted Life Years),528,Colorado,3,Both,22,All Ages,487,Leukemia,1,Number,2016,8241.801824,9014.333006,7648.863757
+2,DALYs (Disability-Adjusted Life Years),529,Connecticut,3,Both,22,All Ages,456,Pancreatic cancer,1,Number,2016,10807.71092,11621.94879,10002.10136
+2,DALYs (Disability-Adjusted Life Years),529,Connecticut,3,Both,22,All Ages,459,Malignant skin melanoma,1,Number,2016,3148.691507,4668.643573,2476.520491
+2,DALYs (Disability-Adjusted Life Years),529,Connecticut,3,Both,22,All Ages,471,Kidney cancer,1,Number,2016,3598.165367,4085.333576,3243.33923
+2,DALYs (Disability-Adjusted Life Years),529,Connecticut,3,Both,22,All Ages,474,Bladder cancer,1,Number,2016,4153.602077,4519.656971,3799.451622
+2,DALYs (Disability-Adjusted Life Years),529,Connecticut,3,Both,22,All Ages,480,Thyroid cancer,1,Number,2016,638.1462717,729.4030448,557.0684642
+2,DALYs (Disability-Adjusted Life Years),529,Connecticut,3,Both,22,All Ages,487,Leukemia,1,Number,2016,6868.119776,7398.984843,6381.491902
+2,DALYs (Disability-Adjusted Life Years),529,Connecticut,3,Both,22,All Ages,417,Liver cancer,1,Number,2016,6153.867445,6778.998686,5567.807894
+2,DALYs (Disability-Adjusted Life Years),529,Connecticut,3,Both,22,All Ages,429,Breast cancer,1,Number,2016,13622.36868,15281.18847,12121.81208
+2,DALYs (Disability-Adjusted Life Years),529,Connecticut,3,Both,22,All Ages,974,Diabetes and kidney diseases,1,Number,2016,57754.59754,69185.74344,47501.50631
+2,DALYs (Disability-Adjusted Life Years),529,Connecticut,3,Both,22,All Ages,544,Parkinson's disease,1,Number,2016,4761.185413,5208.755442,4017.41602
+2,DALYs (Disability-Adjusted Life Years),530,Delaware,3,Both,22,All Ages,417,Liver cancer,1,Number,2016,1729.863797,1894.10316,1582.161682
+2,DALYs (Disability-Adjusted Life Years),530,Delaware,3,Both,22,All Ages,429,Breast cancer,1,Number,2016,4130.20624,4530.141301,3738.63428
+2,DALYs (Disability-Adjusted Life Years),530,Delaware,3,Both,22,All Ages,456,Pancreatic cancer,1,Number,2016,3018.45549,3240.21579,2804.616404
+2,DALYs (Disability-Adjusted Life Years),530,Delaware,3,Both,22,All Ages,459,Malignant skin melanoma,1,Number,2016,970.9623158,1263.264681,693.4612395
+2,DALYs (Disability-Adjusted Life Years),530,Delaware,3,Both,22,All Ages,471,Kidney cancer,1,Number,2016,1086.716632,1235.46938,977.4436617
+2,DALYs (Disability-Adjusted Life Years),530,Delaware,3,Both,22,All Ages,474,Bladder cancer,1,Number,2016,1127.664341,1221.693303,1033.373522
+2,DALYs (Disability-Adjusted Life Years),530,Delaware,3,Both,22,All Ages,480,Thyroid cancer,1,Number,2016,166.4356478,188.6725136,147.5942265
+2,DALYs (Disability-Adjusted Life Years),530,Delaware,3,Both,22,All Ages,487,Leukemia,1,Number,2016,1848.545694,1989.895652,1727.240858
+2,DALYs (Disability-Adjusted Life Years),530,Delaware,3,Both,22,All Ages,544,Parkinson's disease,1,Number,2016,1220.180891,1321.198044,1067.325619
+2,DALYs (Disability-Adjusted Life Years),530,Delaware,3,Both,22,All Ages,974,Diabetes and kidney diseases,1,Number,2016,19159.01988,22731.21428,15984.68846
+2,DALYs (Disability-Adjusted Life Years),531,District of Columbia,3,Both,22,All Ages,544,Parkinson's disease,1,Number,2016,664.35564,729.1731054,575.1397155
+2,DALYs (Disability-Adjusted Life Years),531,District of Columbia,3,Both,22,All Ages,417,Liver cancer,1,Number,2016,1602.179822,1802.481717,1423.828793
+2,DALYs (Disability-Adjusted Life Years),531,District of Columbia,3,Both,22,All Ages,429,Breast cancer,1,Number,2016,2864.192772,3152.932957,2584.401174
+2,DALYs (Disability-Adjusted Life Years),531,District of Columbia,3,Both,22,All Ages,456,Pancreatic cancer,1,Number,2016,2034.176492,2216.900438,1860.101397
+2,DALYs (Disability-Adjusted Life Years),531,District of Columbia,3,Both,22,All Ages,459,Malignant skin melanoma,1,Number,2016,346.6218027,945.1781313,218.793661
+2,DALYs (Disability-Adjusted Life Years),531,District of Columbia,3,Both,22,All Ages,471,Kidney cancer,1,Number,2016,563.5846637,719.3150626,489.8375345
+2,DALYs (Disability-Adjusted Life Years),531,District of Columbia,3,Both,22,All Ages,474,Bladder cancer,1,Number,2016,548.2101527,597.7925209,499.9192833
+2,DALYs (Disability-Adjusted Life Years),531,District of Columbia,3,Both,22,All Ages,480,Thyroid cancer,1,Number,2016,123.8868511,140.8430229,107.8400778
+2,DALYs (Disability-Adjusted Life Years),531,District of Columbia,3,Both,22,All Ages,487,Leukemia,1,Number,2016,1004.524381,1108.217689,923.8311331
+2,DALYs (Disability-Adjusted Life Years),531,District of Columbia,3,Both,22,All Ages,974,Diabetes and kidney diseases,1,Number,2016,10516.2165,11992.91717,9147.364378
+2,DALYs (Disability-Adjusted Life Years),532,Florida,3,Both,22,All Ages,544,Parkinson's disease,1,Number,2016,31949.34781,34723.9364,25475.93554
+2,DALYs (Disability-Adjusted Life Years),532,Florida,3,Both,22,All Ages,417,Liver cancer,1,Number,2016,42245.14597,45445.32134,39164.92563
+2,DALYs (Disability-Adjusted Life Years),532,Florida,3,Both,22,All Ages,429,Breast cancer,1,Number,2016,83782.2237,92759.29891,75928.4184
+2,DALYs (Disability-Adjusted Life Years),532,Florida,3,Both,22,All Ages,456,Pancreatic cancer,1,Number,2016,64595.76585,68583.0218,60319.91551
+2,DALYs (Disability-Adjusted Life Years),532,Florida,3,Both,22,All Ages,459,Malignant skin melanoma,1,Number,2016,20568.03506,26403.81908,14982.81162
+2,DALYs (Disability-Adjusted Life Years),532,Florida,3,Both,22,All Ages,471,Kidney cancer,1,Number,2016,23144.41903,25958.06601,21276.95698
+2,DALYs (Disability-Adjusted Life Years),532,Florida,3,Both,22,All Ages,974,Diabetes and kidney diseases,1,Number,2016,406047.1606,481376.4889,339753.0447
+2,DALYs (Disability-Adjusted Life Years),532,Florida,3,Both,22,All Ages,480,Thyroid cancer,1,Number,2016,3632.562886,4102.45447,3232.357738
+2,DALYs (Disability-Adjusted Life Years),532,Florida,3,Both,22,All Ages,487,Leukemia,1,Number,2016,40143.91965,43047.43662,37653.5866
+2,DALYs (Disability-Adjusted Life Years),532,Florida,3,Both,22,All Ages,474,Bladder cancer,1,Number,2016,24261.94755,26119.54521,22525.60247
+2,DALYs (Disability-Adjusted Life Years),533,Georgia,3,Both,22,All Ages,544,Parkinson's disease,1,Number,2016,10308.45666,11206.64184,9017.097857
+2,DALYs (Disability-Adjusted Life Years),533,Georgia,3,Both,22,All Ages,417,Liver cancer,1,Number,2016,16780.78897,18185.57312,15393.02487
+2,DALYs (Disability-Adjusted Life Years),533,Georgia,3,Both,22,All Ages,456,Pancreatic cancer,1,Number,2016,26808.74732,28804.72547,25028.64322
+2,DALYs (Disability-Adjusted Life Years),533,Georgia,3,Both,22,All Ages,459,Malignant skin melanoma,1,Number,2016,8180.457829,12284.21422,6632.274971
+2,DALYs (Disability-Adjusted Life Years),533,Georgia,3,Both,22,All Ages,471,Kidney cancer,1,Number,2016,10198.87521,11631.50151,9182.180305
+2,DALYs (Disability-Adjusted Life Years),533,Georgia,3,Both,22,All Ages,474,Bladder cancer,1,Number,2016,9250.363778,10026.44324,8473.153824
+2,DALYs (Disability-Adjusted Life Years),533,Georgia,3,Both,22,All Ages,480,Thyroid cancer,1,Number,2016,1376.785585,1549.876766,1220.850727
+2,DALYs (Disability-Adjusted Life Years),533,Georgia,3,Both,22,All Ages,487,Leukemia,1,Number,2016,17705.32323,19297.79619,16543.27867
+2,DALYs (Disability-Adjusted Life Years),533,Georgia,3,Both,22,All Ages,429,Breast cancer,1,Number,2016,41159.03208,45777.38154,37197.71234
+2,DALYs (Disability-Adjusted Life Years),533,Georgia,3,Both,22,All Ages,974,Diabetes and kidney diseases,1,Number,2016,195019.1135,229800.3436,166133.9748
+2,DALYs (Disability-Adjusted Life Years),534,Hawaii,3,Both,22,All Ages,471,Kidney cancer,1,Number,2016,1290.796781,1453.991746,1153.585744
+2,DALYs (Disability-Adjusted Life Years),534,Hawaii,3,Both,22,All Ages,474,Bladder cancer,1,Number,2016,1061.469848,1179.023554,956.202623
+2,DALYs (Disability-Adjusted Life Years),534,Hawaii,3,Both,22,All Ages,480,Thyroid cancer,1,Number,2016,351.2694796,403.5194552,305.3442683
+2,DALYs (Disability-Adjusted Life Years),534,Hawaii,3,Both,22,All Ages,487,Leukemia,1,Number,2016,2328.544253,2505.549944,2166.014553
+2,DALYs (Disability-Adjusted Life Years),534,Hawaii,3,Both,22,All Ages,974,Diabetes and kidney diseases,1,Number,2016,22893.91069,27383.36114,18957.70254
+2,DALYs (Disability-Adjusted Life Years),534,Hawaii,3,Both,22,All Ages,544,Parkinson's disease,1,Number,2016,1885.448813,2074.886248,1459.199867
+2,DALYs (Disability-Adjusted Life Years),534,Hawaii,3,Both,22,All Ages,417,Liver cancer,1,Number,2016,3630.287204,3956.046032,3290.707617
+2,DALYs (Disability-Adjusted Life Years),534,Hawaii,3,Both,22,All Ages,429,Breast cancer,1,Number,2016,4748.357022,5203.639061,4315.344995
+2,DALYs (Disability-Adjusted Life Years),534,Hawaii,3,Both,22,All Ages,456,Pancreatic cancer,1,Number,2016,4401.999353,4750.845256,4084.696545
+2,DALYs (Disability-Adjusted Life Years),534,Hawaii,3,Both,22,All Ages,459,Malignant skin melanoma,1,Number,2016,963.5209125,1662.635655,759.7698718
+2,DALYs (Disability-Adjusted Life Years),535,Idaho,3,Both,22,All Ages,429,Breast cancer,1,Number,2016,5739.490204,6268.447887,5247.345893
+2,DALYs (Disability-Adjusted Life Years),535,Idaho,3,Both,22,All Ages,456,Pancreatic cancer,1,Number,2016,4607.593926,5002.347463,4240.894693
+2,DALYs (Disability-Adjusted Life Years),535,Idaho,3,Both,22,All Ages,459,Malignant skin melanoma,1,Number,2016,1616.141556,1933.719336,993.0746177
+2,DALYs (Disability-Adjusted Life Years),535,Idaho,3,Both,22,All Ages,471,Kidney cancer,1,Number,2016,1875.497532,2089.285154,1686.347639
+2,DALYs (Disability-Adjusted Life Years),535,Idaho,3,Both,22,All Ages,474,Bladder cancer,1,Number,2016,1475.751987,1627.762577,1333.355845
+2,DALYs (Disability-Adjusted Life Years),535,Idaho,3,Both,22,All Ages,480,Thyroid cancer,1,Number,2016,289.7088383,328.0715357,254.4601222
+2,DALYs (Disability-Adjusted Life Years),535,Idaho,3,Both,22,All Ages,487,Leukemia,1,Number,2016,3021.474992,3296.051562,2795.299795
+2,DALYs (Disability-Adjusted Life Years),535,Idaho,3,Both,22,All Ages,974,Diabetes and kidney diseases,1,Number,2016,24958.14217,29521.20271,20877.58178
+2,DALYs (Disability-Adjusted Life Years),535,Idaho,3,Both,22,All Ages,544,Parkinson's disease,1,Number,2016,2215.149468,2430.967939,1696.935636
+2,DALYs (Disability-Adjusted Life Years),535,Idaho,3,Both,22,All Ages,417,Liver cancer,1,Number,2016,2180.182753,2434.344151,1976.580083
+2,DALYs (Disability-Adjusted Life Years),536,Illinois,3,Both,22,All Ages,456,Pancreatic cancer,1,Number,2016,36306.2848,38816.10528,34045.73967
+2,DALYs (Disability-Adjusted Life Years),536,Illinois,3,Both,22,All Ages,459,Malignant skin melanoma,1,Number,2016,10024.60703,15644.35018,8342.811378
+2,DALYs (Disability-Adjusted Life Years),536,Illinois,3,Both,22,All Ages,471,Kidney cancer,1,Number,2016,14791.05513,16279.48872,13505.60738
+2,DALYs (Disability-Adjusted Life Years),536,Illinois,3,Both,22,All Ages,474,Bladder cancer,1,Number,2016,12364.5064,13361.34246,11405.16401
+2,DALYs (Disability-Adjusted Life Years),536,Illinois,3,Both,22,All Ages,480,Thyroid cancer,1,Number,2016,1977.902823,2271.160756,1742.804259
+2,DALYs (Disability-Adjusted Life Years),536,Illinois,3,Both,22,All Ages,487,Leukemia,1,Number,2016,22628.5207,24310.43271,21135.14853
+2,DALYs (Disability-Adjusted Life Years),536,Illinois,3,Both,22,All Ages,974,Diabetes and kidney diseases,1,Number,2016,218989.6656,257179.204,184936.6895
+2,DALYs (Disability-Adjusted Life Years),536,Illinois,3,Both,22,All Ages,417,Liver cancer,1,Number,2016,22301.55364,24018.25705,20742.2757
+2,DALYs (Disability-Adjusted Life Years),536,Illinois,3,Both,22,All Ages,429,Breast cancer,1,Number,2016,52243.08771,57789.14574,47013.22186
+2,DALYs (Disability-Adjusted Life Years),536,Illinois,3,Both,22,All Ages,544,Parkinson's disease,1,Number,2016,15029.72221,16321.90384,12843.08294
+2,DALYs (Disability-Adjusted Life Years),537,Indiana,3,Both,22,All Ages,417,Liver cancer,1,Number,2016,11133.44501,12062.9347,10289.62152
+2,DALYs (Disability-Adjusted Life Years),537,Indiana,3,Both,22,All Ages,429,Breast cancer,1,Number,2016,25513.21705,28281.46065,23066.31559
+2,DALYs (Disability-Adjusted Life Years),537,Indiana,3,Both,22,All Ages,456,Pancreatic cancer,1,Number,2016,19872.27743,21358.03333,18485.60923
+2,DALYs (Disability-Adjusted Life Years),537,Indiana,3,Both,22,All Ages,459,Malignant skin melanoma,1,Number,2016,6300.29923,8161.023934,4645.171527
+2,DALYs (Disability-Adjusted Life Years),537,Indiana,3,Both,22,All Ages,471,Kidney cancer,1,Number,2016,8578.683778,9529.494303,7837.663974
+2,DALYs (Disability-Adjusted Life Years),537,Indiana,3,Both,22,All Ages,474,Bladder cancer,1,Number,2016,7248.332677,7817.581013,6708.677894
+2,DALYs (Disability-Adjusted Life Years),537,Indiana,3,Both,22,All Ages,480,Thyroid cancer,1,Number,2016,1082.264531,1224.974494,956.7220251
+2,DALYs (Disability-Adjusted Life Years),537,Indiana,3,Both,22,All Ages,487,Leukemia,1,Number,2016,13066.4928,14191.84107,12131.5537
+2,DALYs (Disability-Adjusted Life Years),537,Indiana,3,Both,22,All Ages,974,Diabetes and kidney diseases,1,Number,2016,134482.0923,157956.4775,115088.3753
+2,DALYs (Disability-Adjusted Life Years),537,Indiana,3,Both,22,All Ages,544,Parkinson's disease,1,Number,2016,8625.993503,9358.542055,7379.12326
+2,DALYs (Disability-Adjusted Life Years),538,Iowa,3,Both,22,All Ages,544,Parkinson's disease,1,Number,2016,4413.054236,4792.872212,3702.734309
+2,DALYs (Disability-Adjusted Life Years),538,Iowa,3,Both,22,All Ages,417,Liver cancer,1,Number,2016,4406.37199,4889.179469,3995.571794
+2,DALYs (Disability-Adjusted Life Years),538,Iowa,3,Both,22,All Ages,429,Breast cancer,1,Number,2016,11765.29105,13174.04995,10576.32769
+2,DALYs (Disability-Adjusted Life Years),538,Iowa,3,Both,22,All Ages,456,Pancreatic cancer,1,Number,2016,8912.418833,9630.677546,8254.370428
+2,DALYs (Disability-Adjusted Life Years),538,Iowa,3,Both,22,All Ages,459,Malignant skin melanoma,1,Number,2016,2711.969278,3669.775917,2021.610995
+2,DALYs (Disability-Adjusted Life Years),538,Iowa,3,Both,22,All Ages,471,Kidney cancer,1,Number,2016,4367.427771,4819.267962,3949.118026
+2,DALYs (Disability-Adjusted Life Years),538,Iowa,3,Both,22,All Ages,474,Bladder cancer,1,Number,2016,3159.005828,3435.514436,2906.966513
+2,DALYs (Disability-Adjusted Life Years),538,Iowa,3,Both,22,All Ages,480,Thyroid cancer,1,Number,2016,526.7309573,602.5797846,463.2648308
+2,DALYs (Disability-Adjusted Life Years),538,Iowa,3,Both,22,All Ages,487,Leukemia,1,Number,2016,6455.007383,6967.396108,5999.860205
+2,DALYs (Disability-Adjusted Life Years),538,Iowa,3,Both,22,All Ages,974,Diabetes and kidney diseases,1,Number,2016,49333.8341,59077.32975,41299.11718
+2,DALYs (Disability-Adjusted Life Years),539,Kansas,3,Both,22,All Ages,544,Parkinson's disease,1,Number,2016,4182.619326,4586.465781,3376.077986
+2,DALYs (Disability-Adjusted Life Years),539,Kansas,3,Both,22,All Ages,456,Pancreatic cancer,1,Number,2016,8425.628875,9197.210264,7751.282775
+2,DALYs (Disability-Adjusted Life Years),539,Kansas,3,Both,22,All Ages,459,Malignant skin melanoma,1,Number,2016,2746.364968,3536.810567,1878.924127
+2,DALYs (Disability-Adjusted Life Years),539,Kansas,3,Both,22,All Ages,417,Liver cancer,1,Number,2016,4338.611844,4749.040827,3981.20168
+2,DALYs (Disability-Adjusted Life Years),539,Kansas,3,Both,22,All Ages,429,Breast cancer,1,Number,2016,11198.50321,12444.14476,10019.35207
+2,DALYs (Disability-Adjusted Life Years),539,Kansas,3,Both,22,All Ages,471,Kidney cancer,1,Number,2016,3744.156068,4163.563011,3353.928904
+2,DALYs (Disability-Adjusted Life Years),539,Kansas,3,Both,22,All Ages,474,Bladder cancer,1,Number,2016,2683.62355,2959.93444,2437.17875
+2,DALYs (Disability-Adjusted Life Years),539,Kansas,3,Both,22,All Ages,480,Thyroid cancer,1,Number,2016,522.0757581,590.1167,460.0282268
+2,DALYs (Disability-Adjusted Life Years),539,Kansas,3,Both,22,All Ages,487,Leukemia,1,Number,2016,5759.404493,6244.952327,5323.789534
+2,DALYs (Disability-Adjusted Life Years),539,Kansas,3,Both,22,All Ages,974,Diabetes and kidney diseases,1,Number,2016,50117.26207,59084.0627,42335.03561
+2,DALYs (Disability-Adjusted Life Years),540,Kentucky,3,Both,22,All Ages,544,Parkinson's disease,1,Number,2016,5879.743699,6382.243731,5162.79257
+2,DALYs (Disability-Adjusted Life Years),540,Kentucky,3,Both,22,All Ages,417,Liver cancer,1,Number,2016,8557.447994,9297.531546,7781.129057
+2,DALYs (Disability-Adjusted Life Years),540,Kentucky,3,Both,22,All Ages,429,Breast cancer,1,Number,2016,19021.2766,21135.78849,17098.78216
+2,DALYs (Disability-Adjusted Life Years),540,Kentucky,3,Both,22,All Ages,456,Pancreatic cancer,1,Number,2016,14117.00832,15270.31959,13077.05613
+2,DALYs (Disability-Adjusted Life Years),540,Kentucky,3,Both,22,All Ages,974,Diabetes and kidney diseases,1,Number,2016,96772.11805,112953.586,82327.69065
+2,DALYs (Disability-Adjusted Life Years),540,Kentucky,3,Both,22,All Ages,459,Malignant skin melanoma,1,Number,2016,4816.148355,6242.549035,3286.930121
+2,DALYs (Disability-Adjusted Life Years),540,Kentucky,3,Both,22,All Ages,471,Kidney cancer,1,Number,2016,6569.048794,7328.335885,5913.75821
+2,DALYs (Disability-Adjusted Life Years),540,Kentucky,3,Both,22,All Ages,474,Bladder cancer,1,Number,2016,5091.802744,5533.956432,4698.565525
+2,DALYs (Disability-Adjusted Life Years),540,Kentucky,3,Both,22,All Ages,480,Thyroid cancer,1,Number,2016,865.9116184,967.3538718,769.6932868
+2,DALYs (Disability-Adjusted Life Years),540,Kentucky,3,Both,22,All Ages,487,Leukemia,1,Number,2016,9817.997118,10741.77615,9063.790594
+2,DALYs (Disability-Adjusted Life Years),541,Louisiana,3,Both,22,All Ages,974,Diabetes and kidney diseases,1,Number,2016,102756.3883,120203.9226,87984.42634
+2,DALYs (Disability-Adjusted Life Years),541,Louisiana,3,Both,22,All Ages,459,Malignant skin melanoma,1,Number,2016,3485.301566,6097.804098,2774.531987
+2,DALYs (Disability-Adjusted Life Years),541,Louisiana,3,Both,22,All Ages,471,Kidney cancer,1,Number,2016,6513.291844,7250.257538,5900.900533
+2,DALYs (Disability-Adjusted Life Years),541,Louisiana,3,Both,22,All Ages,474,Bladder cancer,1,Number,2016,4386.794627,4763.069813,4049.648548
+2,DALYs (Disability-Adjusted Life Years),541,Louisiana,3,Both,22,All Ages,480,Thyroid cancer,1,Number,2016,753.5735888,853.0492982,677.9841021
+2,DALYs (Disability-Adjusted Life Years),541,Louisiana,3,Both,22,All Ages,487,Leukemia,1,Number,2016,9361.563365,10121.16025,8738.711142
+2,DALYs (Disability-Adjusted Life Years),541,Louisiana,3,Both,22,All Ages,544,Parkinson's disease,1,Number,2016,5400.00223,5853.824347,4752.759293
+2,DALYs (Disability-Adjusted Life Years),541,Louisiana,3,Both,22,All Ages,417,Liver cancer,1,Number,2016,11264.34145,12387.08649,10236.84067
+2,DALYs (Disability-Adjusted Life Years),541,Louisiana,3,Both,22,All Ages,429,Breast cancer,1,Number,2016,19324.66183,21281.50676,17408.93471
+2,DALYs (Disability-Adjusted Life Years),541,Louisiana,3,Both,22,All Ages,456,Pancreatic cancer,1,Number,2016,15476.63122,16615.44152,14440.54361
+2,DALYs (Disability-Adjusted Life Years),542,Maine,3,Both,22,All Ages,487,Leukemia,1,Number,2016,2975.561377,3237.278926,2734.67442
+2,DALYs (Disability-Adjusted Life Years),542,Maine,3,Both,22,All Ages,429,Breast cancer,1,Number,2016,5847.700444,6390.926819,5355.854191
+2,DALYs (Disability-Adjusted Life Years),542,Maine,3,Both,22,All Ages,456,Pancreatic cancer,1,Number,2016,4915.665825,5298.013521,4543.630908
+2,DALYs (Disability-Adjusted Life Years),542,Maine,3,Both,22,All Ages,459,Malignant skin melanoma,1,Number,2016,1474.126006,1930.463929,1048.552785
+2,DALYs (Disability-Adjusted Life Years),542,Maine,3,Both,22,All Ages,471,Kidney cancer,1,Number,2016,2038.992368,2268.555003,1828.031861
+2,DALYs (Disability-Adjusted Life Years),542,Maine,3,Both,22,All Ages,474,Bladder cancer,1,Number,2016,2221.147265,2424.394215,2023.315578
+2,DALYs (Disability-Adjusted Life Years),542,Maine,3,Both,22,All Ages,480,Thyroid cancer,1,Number,2016,278.7637383,316.2811152,245.6785703
+2,DALYs (Disability-Adjusted Life Years),542,Maine,3,Both,22,All Ages,974,Diabetes and kidney diseases,1,Number,2016,27151.47136,32260.7937,22755.60842
+2,DALYs (Disability-Adjusted Life Years),542,Maine,3,Both,22,All Ages,417,Liver cancer,1,Number,2016,2338.679919,2594.373345,2106.266537
+2,DALYs (Disability-Adjusted Life Years),542,Maine,3,Both,22,All Ages,544,Parkinson's disease,1,Number,2016,2405.102982,2637.995571,1945.173597
+2,DALYs (Disability-Adjusted Life Years),543,Maryland,3,Both,22,All Ages,456,Pancreatic cancer,1,Number,2016,17729.35089,18930.06304,16551.83354
+2,DALYs (Disability-Adjusted Life Years),543,Maryland,3,Both,22,All Ages,459,Malignant skin melanoma,1,Number,2016,4876.582279,8061.011055,3990.699858
+2,DALYs (Disability-Adjusted Life Years),543,Maryland,3,Both,22,All Ages,471,Kidney cancer,1,Number,2016,6107.754066,7226.647467,5467.172786
+2,DALYs (Disability-Adjusted Life Years),543,Maryland,3,Both,22,All Ages,474,Bladder cancer,1,Number,2016,6127.853708,6648.116412,5616.86105
+2,DALYs (Disability-Adjusted Life Years),543,Maryland,3,Both,22,All Ages,480,Thyroid cancer,1,Number,2016,887.0325,1001.559239,785.0312862
+2,DALYs (Disability-Adjusted Life Years),543,Maryland,3,Both,22,All Ages,487,Leukemia,1,Number,2016,10148.81814,11041.43052,9451.889734
+2,DALYs (Disability-Adjusted Life Years),543,Maryland,3,Both,22,All Ages,974,Diabetes and kidney diseases,1,Number,2016,105449.5423,124469.2502,87761.02767
+2,DALYs (Disability-Adjusted Life Years),543,Maryland,3,Both,22,All Ages,417,Liver cancer,1,Number,2016,11494.63472,12641.13558,10342.77996
+2,DALYs (Disability-Adjusted Life Years),543,Maryland,3,Both,22,All Ages,429,Breast cancer,1,Number,2016,24353.40531,27291.26964,21943.5143
+2,DALYs (Disability-Adjusted Life Years),543,Maryland,3,Both,22,All Ages,544,Parkinson's disease,1,Number,2016,7046.569185,7677.251684,5999.145912
+2,DALYs (Disability-Adjusted Life Years),544,Massachusetts,3,Both,22,All Ages,544,Parkinson's disease,1,Number,2016,8732.717044,9530.676325,7479.333534
+2,DALYs (Disability-Adjusted Life Years),544,Massachusetts,3,Both,22,All Ages,974,Diabetes and kidney diseases,1,Number,2016,102304.3777,121979.4689,85058.21795
+2,DALYs (Disability-Adjusted Life Years),544,Massachusetts,3,Both,22,All Ages,417,Liver cancer,1,Number,2016,12884.17864,14034.91413,11720.45286
+2,DALYs (Disability-Adjusted Life Years),544,Massachusetts,3,Both,22,All Ages,429,Breast cancer,1,Number,2016,25172.57529,28086.18748,22546.52394
+2,DALYs (Disability-Adjusted Life Years),544,Massachusetts,3,Both,22,All Ages,456,Pancreatic cancer,1,Number,2016,20064.23075,21434.86862,18677.72531
+2,DALYs (Disability-Adjusted Life Years),544,Massachusetts,3,Both,22,All Ages,459,Malignant skin melanoma,1,Number,2016,6385.745647,9143.857139,4845.520654
+2,DALYs (Disability-Adjusted Life Years),544,Massachusetts,3,Both,22,All Ages,471,Kidney cancer,1,Number,2016,7149.126039,7940.892012,6491.509002
+2,DALYs (Disability-Adjusted Life Years),544,Massachusetts,3,Both,22,All Ages,474,Bladder cancer,1,Number,2016,7437.060884,8078.59853,6859.940369
+2,DALYs (Disability-Adjusted Life Years),544,Massachusetts,3,Both,22,All Ages,480,Thyroid cancer,1,Number,2016,1180.861237,1340.626202,1041.606059
+2,DALYs (Disability-Adjusted Life Years),544,Massachusetts,3,Both,22,All Ages,487,Leukemia,1,Number,2016,11603.11358,12545.83757,10759.99147
+2,DALYs (Disability-Adjusted Life Years),545,Michigan,3,Both,22,All Ages,417,Liver cancer,1,Number,2016,17431.60425,18740.58674,16176.36015
+2,DALYs (Disability-Adjusted Life Years),545,Michigan,3,Both,22,All Ages,429,Breast cancer,1,Number,2016,41184.53234,45093.85341,37412.72478
+2,DALYs (Disability-Adjusted Life Years),545,Michigan,3,Both,22,All Ages,544,Parkinson's disease,1,Number,2016,13229.76988,14333.41323,11507.98644
+2,DALYs (Disability-Adjusted Life Years),545,Michigan,3,Both,22,All Ages,456,Pancreatic cancer,1,Number,2016,32031.63547,34276.36118,29950.89165
+2,DALYs (Disability-Adjusted Life Years),545,Michigan,3,Both,22,All Ages,459,Malignant skin melanoma,1,Number,2016,8349.023767,13104.63804,6722.114966
+2,DALYs (Disability-Adjusted Life Years),545,Michigan,3,Both,22,All Ages,471,Kidney cancer,1,Number,2016,12275.55962,13643.83916,11204.43785
+2,DALYs (Disability-Adjusted Life Years),545,Michigan,3,Both,22,All Ages,474,Bladder cancer,1,Number,2016,10992.15761,11854.68515,10246.88219
+2,DALYs (Disability-Adjusted Life Years),545,Michigan,3,Both,22,All Ages,480,Thyroid cancer,1,Number,2016,1690.09199,1896.692481,1515.956702
+2,DALYs (Disability-Adjusted Life Years),545,Michigan,3,Both,22,All Ages,487,Leukemia,1,Number,2016,20117.21796,21616.69439,18825.14056
+2,DALYs (Disability-Adjusted Life Years),545,Michigan,3,Both,22,All Ages,974,Diabetes and kidney diseases,1,Number,2016,195264.2408,231734.3854,163989.5419
+2,DALYs (Disability-Adjusted Life Years),546,Minnesota,3,Both,22,All Ages,544,Parkinson's disease,1,Number,2016,7192.054203,7822.49128,5697.888433
+2,DALYs (Disability-Adjusted Life Years),546,Minnesota,3,Both,22,All Ages,471,Kidney cancer,1,Number,2016,6492.637863,7071.494727,5892.049232
+2,DALYs (Disability-Adjusted Life Years),546,Minnesota,3,Both,22,All Ages,474,Bladder cancer,1,Number,2016,4957.178801,5366.704621,4532.475693
+2,DALYs (Disability-Adjusted Life Years),546,Minnesota,3,Both,22,All Ages,480,Thyroid cancer,1,Number,2016,888.6733333,1011.307362,772.2756565
+2,DALYs (Disability-Adjusted Life Years),546,Minnesota,3,Both,22,All Ages,417,Liver cancer,1,Number,2016,8094.820666,8802.436785,7412.339197
+2,DALYs (Disability-Adjusted Life Years),546,Minnesota,3,Both,22,All Ages,429,Breast cancer,1,Number,2016,18946.78273,20976.01657,17026.43216
+2,DALYs (Disability-Adjusted Life Years),546,Minnesota,3,Both,22,All Ages,974,Diabetes and kidney diseases,1,Number,2016,79716.05687,94765.25891,66735.56132
+2,DALYs (Disability-Adjusted Life Years),546,Minnesota,3,Both,22,All Ages,456,Pancreatic cancer,1,Number,2016,15220.30548,16414.7703,14203.10477
+2,DALYs (Disability-Adjusted Life Years),546,Minnesota,3,Both,22,All Ages,459,Malignant skin melanoma,1,Number,2016,4447.705266,6470.047779,3509.128436
+2,DALYs (Disability-Adjusted Life Years),546,Minnesota,3,Both,22,All Ages,487,Leukemia,1,Number,2016,10307.07141,11100.0747,9581.761728
+2,DALYs (Disability-Adjusted Life Years),547,Mississippi,3,Both,22,All Ages,544,Parkinson's disease,1,Number,2016,3453.326189,3788.889601,3111.150611
+2,DALYs (Disability-Adjusted Life Years),547,Mississippi,3,Both,22,All Ages,417,Liver cancer,1,Number,2016,6601.654864,7320.9419,6042.359211
+2,DALYs (Disability-Adjusted Life Years),547,Mississippi,3,Both,22,All Ages,974,Diabetes and kidney diseases,1,Number,2016,69298.6182,79903.16783,60126.09872
+2,DALYs (Disability-Adjusted Life Years),547,Mississippi,3,Both,22,All Ages,429,Breast cancer,1,Number,2016,13503.45407,15154.12677,12185.04169
+2,DALYs (Disability-Adjusted Life Years),547,Mississippi,3,Both,22,All Ages,456,Pancreatic cancer,1,Number,2016,10385.42253,11329.64186,9554.720823
+2,DALYs (Disability-Adjusted Life Years),547,Mississippi,3,Both,22,All Ages,459,Malignant skin melanoma,1,Number,2016,2519.375512,3943.084289,2034.296061
+2,DALYs (Disability-Adjusted Life Years),547,Mississippi,3,Both,22,All Ages,471,Kidney cancer,1,Number,2016,4030.493333,4628.78866,3566.338961
+2,DALYs (Disability-Adjusted Life Years),547,Mississippi,3,Both,22,All Ages,474,Bladder cancer,1,Number,2016,2797.606795,3064.558318,2570.67628
+2,DALYs (Disability-Adjusted Life Years),547,Mississippi,3,Both,22,All Ages,480,Thyroid cancer,1,Number,2016,513.8529077,579.1050037,457.2222052
+2,DALYs (Disability-Adjusted Life Years),547,Mississippi,3,Both,22,All Ages,487,Leukemia,1,Number,2016,6339.559164,6910.111224,5879.416189
+2,DALYs (Disability-Adjusted Life Years),548,Missouri,3,Both,22,All Ages,456,Pancreatic cancer,1,Number,2016,19033.23773,20370.17211,17741.224
+2,DALYs (Disability-Adjusted Life Years),548,Missouri,3,Both,22,All Ages,459,Malignant skin melanoma,1,Number,2016,6034.529882,8038.775504,4369.828777
+2,DALYs (Disability-Adjusted Life Years),548,Missouri,3,Both,22,All Ages,471,Kidney cancer,1,Number,2016,8383.937003,9259.655316,7601.905263
+2,DALYs (Disability-Adjusted Life Years),548,Missouri,3,Both,22,All Ages,474,Bladder cancer,1,Number,2016,6159.964957,6697.997588,5667.762131
+2,DALYs (Disability-Adjusted Life Years),548,Missouri,3,Both,22,All Ages,480,Thyroid cancer,1,Number,2016,1065.001915,1217.230258,948.2388848
+2,DALYs (Disability-Adjusted Life Years),548,Missouri,3,Both,22,All Ages,487,Leukemia,1,Number,2016,12526.61097,13550.75892,11636.09671
+2,DALYs (Disability-Adjusted Life Years),548,Missouri,3,Both,22,All Ages,974,Diabetes and kidney diseases,1,Number,2016,117624.2156,138477.1905,99492.28033
+2,DALYs (Disability-Adjusted Life Years),548,Missouri,3,Both,22,All Ages,544,Parkinson's disease,1,Number,2016,8596.381347,9381.060415,7303.655454
+2,DALYs (Disability-Adjusted Life Years),548,Missouri,3,Both,22,All Ages,417,Liver cancer,1,Number,2016,11324.116,12373.4208,10370.11438
+2,DALYs (Disability-Adjusted Life Years),548,Missouri,3,Both,22,All Ages,429,Breast cancer,1,Number,2016,25914.71465,28929.02539,23370.52279
+2,DALYs (Disability-Adjusted Life Years),549,Montana,3,Both,22,All Ages,487,Leukemia,1,Number,2016,2283.419394,2491.539792,2086.740474
+2,DALYs (Disability-Adjusted Life Years),549,Montana,3,Both,22,All Ages,974,Diabetes and kidney diseases,1,Number,2016,17168.1957,20312.36398,14608.12785
+2,DALYs (Disability-Adjusted Life Years),549,Montana,3,Both,22,All Ages,417,Liver cancer,1,Number,2016,1696.15528,1887.90089,1513.156957
+2,DALYs (Disability-Adjusted Life Years),549,Montana,3,Both,22,All Ages,429,Breast cancer,1,Number,2016,4739.33741,5200.727378,4311.09582
+2,DALYs (Disability-Adjusted Life Years),549,Montana,3,Both,22,All Ages,456,Pancreatic cancer,1,Number,2016,3481.17533,3781.090496,3199.821107
+2,DALYs (Disability-Adjusted Life Years),549,Montana,3,Both,22,All Ages,459,Malignant skin melanoma,1,Number,2016,1132.646235,1488.216903,788.5853074
+2,DALYs (Disability-Adjusted Life Years),549,Montana,3,Both,22,All Ages,471,Kidney cancer,1,Number,2016,1340.847702,1529.686029,1172.713611
+2,DALYs (Disability-Adjusted Life Years),549,Montana,3,Both,22,All Ages,474,Bladder cancer,1,Number,2016,1346.507991,1479.210165,1213.284765
+2,DALYs (Disability-Adjusted Life Years),549,Montana,3,Both,22,All Ages,480,Thyroid cancer,1,Number,2016,197.2565964,223.9822215,174.8707232
+2,DALYs (Disability-Adjusted Life Years),549,Montana,3,Both,22,All Ages,544,Parkinson's disease,1,Number,2016,1610.158664,1757.133275,1338.682888
+2,DALYs (Disability-Adjusted Life Years),550,Nebraska,3,Both,22,All Ages,456,Pancreatic cancer,1,Number,2016,5223.341336,5662.537319,4848.832997
+2,DALYs (Disability-Adjusted Life Years),550,Nebraska,3,Both,22,All Ages,459,Malignant skin melanoma,1,Number,2016,1739.367531,2202.918062,1209.53437
+2,DALYs (Disability-Adjusted Life Years),550,Nebraska,3,Both,22,All Ages,471,Kidney cancer,1,Number,2016,2455.075153,2738.224657,2200.632616
+2,DALYs (Disability-Adjusted Life Years),550,Nebraska,3,Both,22,All Ages,474,Bladder cancer,1,Number,2016,1729.266488,1900.672925,1579.600686
+2,DALYs (Disability-Adjusted Life Years),550,Nebraska,3,Both,22,All Ages,480,Thyroid cancer,1,Number,2016,312.2821873,352.3137981,274.8200705
+2,DALYs (Disability-Adjusted Life Years),550,Nebraska,3,Both,22,All Ages,487,Leukemia,1,Number,2016,3605.867418,3899.142116,3324.885401
+2,DALYs (Disability-Adjusted Life Years),550,Nebraska,3,Both,22,All Ages,974,Diabetes and kidney diseases,1,Number,2016,30822.49847,36550.25374,25855.35891
+2,DALYs (Disability-Adjusted Life Years),550,Nebraska,3,Both,22,All Ages,417,Liver cancer,1,Number,2016,2526.584749,2764.930076,2311.934495
+2,DALYs (Disability-Adjusted Life Years),550,Nebraska,3,Both,22,All Ages,429,Breast cancer,1,Number,2016,7274.021399,8003.251595,6598.266371
+2,DALYs (Disability-Adjusted Life Years),550,Nebraska,3,Both,22,All Ages,544,Parkinson's disease,1,Number,2016,2498.881042,2729.867512,2041.706385
+2,DALYs (Disability-Adjusted Life Years),551,Nevada,3,Both,22,All Ages,417,Liver cancer,1,Number,2016,5195.475656,5705.771454,4753.294247
+2,DALYs (Disability-Adjusted Life Years),551,Nevada,3,Both,22,All Ages,429,Breast cancer,1,Number,2016,11176.22093,12306.14435,10262.17109
+2,DALYs (Disability-Adjusted Life Years),551,Nevada,3,Both,22,All Ages,456,Pancreatic cancer,1,Number,2016,8371.787645,9021.102537,7779.924819
+2,DALYs (Disability-Adjusted Life Years),551,Nevada,3,Both,22,All Ages,459,Malignant skin melanoma,1,Number,2016,2630.051785,3526.650545,1903.427377
+2,DALYs (Disability-Adjusted Life Years),551,Nevada,3,Both,22,All Ages,471,Kidney cancer,1,Number,2016,3095.220023,3471.017274,2802.855098
+2,DALYs (Disability-Adjusted Life Years),551,Nevada,3,Both,22,All Ages,474,Bladder cancer,1,Number,2016,3293.849704,3601.10871,3019.230688
+2,DALYs (Disability-Adjusted Life Years),551,Nevada,3,Both,22,All Ages,480,Thyroid cancer,1,Number,2016,461.1363671,525.1200402,409.3681952
+2,DALYs (Disability-Adjusted Life Years),551,Nevada,3,Both,22,All Ages,487,Leukemia,1,Number,2016,5178.608534,5615.440333,4790.264357
+2,DALYs (Disability-Adjusted Life Years),551,Nevada,3,Both,22,All Ages,974,Diabetes and kidney diseases,1,Number,2016,46554.86805,55521.05296,38723.12389
+2,DALYs (Disability-Adjusted Life Years),551,Nevada,3,Both,22,All Ages,544,Parkinson's disease,1,Number,2016,3295.080654,3590.540037,2813.33039
+2,DALYs (Disability-Adjusted Life Years),552,New Hampshire,3,Both,22,All Ages,417,Liver cancer,1,Number,2016,2109.782801,2342.554958,1898.00176
+2,DALYs (Disability-Adjusted Life Years),552,New Hampshire,3,Both,22,All Ages,544,Parkinson's disease,1,Number,2016,1929.255576,2112.079162,1610.872671
+2,DALYs (Disability-Adjusted Life Years),552,New Hampshire,3,Both,22,All Ages,429,Breast cancer,1,Number,2016,5859.440383,6452.921315,5318.414626
+2,DALYs (Disability-Adjusted Life Years),552,New Hampshire,3,Both,22,All Ages,456,Pancreatic cancer,1,Number,2016,4199.704897,4533.320737,3875.313877
+2,DALYs (Disability-Adjusted Life Years),552,New Hampshire,3,Both,22,All Ages,459,Malignant skin melanoma,1,Number,2016,1335.841581,1848.411531,998.4376096
+2,DALYs (Disability-Adjusted Life Years),552,New Hampshire,3,Both,22,All Ages,471,Kidney cancer,1,Number,2016,1552.617745,1726.654022,1397.313178
+2,DALYs (Disability-Adjusted Life Years),552,New Hampshire,3,Both,22,All Ages,474,Bladder cancer,1,Number,2016,1622.119267,1787.801355,1475.334935
+2,DALYs (Disability-Adjusted Life Years),552,New Hampshire,3,Both,22,All Ages,480,Thyroid cancer,1,Number,2016,238.8775391,271.2264266,209.533578
+2,DALYs (Disability-Adjusted Life Years),552,New Hampshire,3,Both,22,All Ages,487,Leukemia,1,Number,2016,2465.711841,2687.312036,2256.592654
+2,DALYs (Disability-Adjusted Life Years),552,New Hampshire,3,Both,22,All Ages,974,Diabetes and kidney diseases,1,Number,2016,22874.36583,27656.72982,18967.5168
+2,DALYs (Disability-Adjusted Life Years),553,New Jersey,3,Both,22,All Ages,544,Parkinson's disease,1,Number,2016,10840.52976,11874.44569,9424.195886
+2,DALYs (Disability-Adjusted Life Years),553,New Jersey,3,Both,22,All Ages,456,Pancreatic cancer,1,Number,2016,25886.0038,27661.3025,24168.22861
+2,DALYs (Disability-Adjusted Life Years),553,New Jersey,3,Both,22,All Ages,459,Malignant skin melanoma,1,Number,2016,7278.39261,11224.78136,6025.573393
+2,DALYs (Disability-Adjusted Life Years),553,New Jersey,3,Both,22,All Ages,471,Kidney cancer,1,Number,2016,8623.736526,9838.405049,7908.299539
+2,DALYs (Disability-Adjusted Life Years),553,New Jersey,3,Both,22,All Ages,474,Bladder cancer,1,Number,2016,9209.873436,9913.512903,8525.929542
+2,DALYs (Disability-Adjusted Life Years),553,New Jersey,3,Both,22,All Ages,480,Thyroid cancer,1,Number,2016,1614.533185,1831.505129,1417.185057
+2,DALYs (Disability-Adjusted Life Years),553,New Jersey,3,Both,22,All Ages,487,Leukemia,1,Number,2016,15737.58902,16923.09655,14718.69401
+2,DALYs (Disability-Adjusted Life Years),553,New Jersey,3,Both,22,All Ages,974,Diabetes and kidney diseases,1,Number,2016,153109.3446,181371.0145,128715.1823
+2,DALYs (Disability-Adjusted Life Years),553,New Jersey,3,Both,22,All Ages,417,Liver cancer,1,Number,2016,14762.88617,16017.45016,13622.84998
+2,DALYs (Disability-Adjusted Life Years),553,New Jersey,3,Both,22,All Ages,429,Breast cancer,1,Number,2016,35774.55517,39606.01745,32342.00937
+2,DALYs (Disability-Adjusted Life Years),554,New Mexico,3,Both,22,All Ages,544,Parkinson's disease,1,Number,2016,2881.681394,3147.072691,2240.749231
+2,DALYs (Disability-Adjusted Life Years),554,New Mexico,3,Both,22,All Ages,974,Diabetes and kidney diseases,1,Number,2016,42516.8823,50003.19528,36083.59943
+2,DALYs (Disability-Adjusted Life Years),554,New Mexico,3,Both,22,All Ages,417,Liver cancer,1,Number,2016,4776.383475,5211.820532,4351.084557
+2,DALYs (Disability-Adjusted Life Years),554,New Mexico,3,Both,22,All Ages,429,Breast cancer,1,Number,2016,7799.311905,8555.362654,7135.901718
+2,DALYs (Disability-Adjusted Life Years),554,New Mexico,3,Both,22,All Ages,456,Pancreatic cancer,1,Number,2016,5852.203919,6318.200451,5451.29521
+2,DALYs (Disability-Adjusted Life Years),554,New Mexico,3,Both,22,All Ages,459,Malignant skin melanoma,1,Number,2016,1876.475421,2553.975525,1432.002932
+2,DALYs (Disability-Adjusted Life Years),554,New Mexico,3,Both,22,All Ages,471,Kidney cancer,1,Number,2016,2649.304203,2951.507068,2370.80079
+2,DALYs (Disability-Adjusted Life Years),554,New Mexico,3,Both,22,All Ages,474,Bladder cancer,1,Number,2016,1903.825362,2075.14119,1730.06208
+2,DALYs (Disability-Adjusted Life Years),554,New Mexico,3,Both,22,All Ages,480,Thyroid cancer,1,Number,2016,441.773416,492.1695365,394.0925635
+2,DALYs (Disability-Adjusted Life Years),554,New Mexico,3,Both,22,All Ages,487,Leukemia,1,Number,2016,4102.331686,4480.265299,3786.705849
+2,DALYs (Disability-Adjusted Life Years),555,New York,3,Both,22,All Ages,471,Kidney cancer,1,Number,2016,17485.56294,20312.0585,15914.32638
+2,DALYs (Disability-Adjusted Life Years),555,New York,3,Both,22,All Ages,474,Bladder cancer,1,Number,2016,18480.30349,19933.15035,17135.59603
+2,DALYs (Disability-Adjusted Life Years),555,New York,3,Both,22,All Ages,480,Thyroid cancer,1,Number,2016,3356.748711,3774.022156,2970.125238
+2,DALYs (Disability-Adjusted Life Years),555,New York,3,Both,22,All Ages,487,Leukemia,1,Number,2016,32679.00272,34978.4393,30690.48165
+2,DALYs (Disability-Adjusted Life Years),555,New York,3,Both,22,All Ages,456,Pancreatic cancer,1,Number,2016,54920.62702,58628.08325,51401.1573
+2,DALYs (Disability-Adjusted Life Years),555,New York,3,Both,22,All Ages,459,Malignant skin melanoma,1,Number,2016,13996.19987,23804.10204,11546.50666
+2,DALYs (Disability-Adjusted Life Years),555,New York,3,Both,22,All Ages,544,Parkinson's disease,1,Number,2016,24972.54481,27358.50482,20496.66209
+2,DALYs (Disability-Adjusted Life Years),555,New York,3,Both,22,All Ages,417,Liver cancer,1,Number,2016,34282.92869,36847.7592,31717.66309
+2,DALYs (Disability-Adjusted Life Years),555,New York,3,Both,22,All Ages,429,Breast cancer,1,Number,2016,72609.24921,81263.19789,65469.04741
+2,DALYs (Disability-Adjusted Life Years),555,New York,3,Both,22,All Ages,974,Diabetes and kidney diseases,1,Number,2016,323783.6106,391150.9285,265855.3008
+2,DALYs (Disability-Adjusted Life Years),556,North Carolina,3,Both,22,All Ages,487,Leukemia,1,Number,2016,17493.27524,19282.44482,16278.98384
+2,DALYs (Disability-Adjusted Life Years),556,North Carolina,3,Both,22,All Ages,974,Diabetes and kidney diseases,1,Number,2016,201752.2723,238585.2715,170266.851
+2,DALYs (Disability-Adjusted Life Years),556,North Carolina,3,Both,22,All Ages,456,Pancreatic cancer,1,Number,2016,29218.14645,31347.56875,27211.16846
+2,DALYs (Disability-Adjusted Life Years),556,North Carolina,3,Both,22,All Ages,459,Malignant skin melanoma,1,Number,2016,8918.361373,12181.55745,6837.928089
+2,DALYs (Disability-Adjusted Life Years),556,North Carolina,3,Both,22,All Ages,471,Kidney cancer,1,Number,2016,11219.52904,12727.60501,10159.04556
+2,DALYs (Disability-Adjusted Life Years),556,North Carolina,3,Both,22,All Ages,474,Bladder cancer,1,Number,2016,9719.234171,10506.40921,8997.491868
+2,DALYs (Disability-Adjusted Life Years),556,North Carolina,3,Both,22,All Ages,480,Thyroid cancer,1,Number,2016,1526.306029,1724.756675,1356.461204
+2,DALYs (Disability-Adjusted Life Years),556,North Carolina,3,Both,22,All Ages,544,Parkinson's disease,1,Number,2016,12266.60457,13372.34966,10563.67559
+2,DALYs (Disability-Adjusted Life Years),556,North Carolina,3,Both,22,All Ages,417,Liver cancer,1,Number,2016,17929.6586,19380.61942,16572.07201
+2,DALYs (Disability-Adjusted Life Years),556,North Carolina,3,Both,22,All Ages,429,Breast cancer,1,Number,2016,40524.6379,44703.30704,36532.68273
+2,DALYs (Disability-Adjusted Life Years),557,North Dakota,3,Both,22,All Ages,456,Pancreatic cancer,1,Number,2016,2140.631822,2298.769916,1979.344474
+2,DALYs (Disability-Adjusted Life Years),557,North Dakota,3,Both,22,All Ages,459,Malignant skin melanoma,1,Number,2016,603.9051715,986.8439306,485.9119894
+2,DALYs (Disability-Adjusted Life Years),557,North Dakota,3,Both,22,All Ages,471,Kidney cancer,1,Number,2016,1026.972606,1133.518028,922.1084356
+2,DALYs (Disability-Adjusted Life Years),557,North Dakota,3,Both,22,All Ages,474,Bladder cancer,1,Number,2016,725.6596968,795.0468607,663.1872246
+2,DALYs (Disability-Adjusted Life Years),557,North Dakota,3,Both,22,All Ages,480,Thyroid cancer,1,Number,2016,145.2736999,165.0019043,127.3618854
+2,DALYs (Disability-Adjusted Life Years),557,North Dakota,3,Both,22,All Ages,487,Leukemia,1,Number,2016,1554.311353,1689.144864,1430.075356
+2,DALYs (Disability-Adjusted Life Years),557,North Dakota,3,Both,22,All Ages,974,Diabetes and kidney diseases,1,Number,2016,12097.75691,14253.83093,10267.0631
+2,DALYs (Disability-Adjusted Life Years),557,North Dakota,3,Both,22,All Ages,417,Liver cancer,1,Number,2016,999.6293787,1098.305585,909.4592619
+2,DALYs (Disability-Adjusted Life Years),557,North Dakota,3,Both,22,All Ages,544,Parkinson's disease,1,Number,2016,1038.905663,1121.274002,856.5842214
+2,DALYs (Disability-Adjusted Life Years),557,North Dakota,3,Both,22,All Ages,429,Breast cancer,1,Number,2016,2840.930345,3122.694043,2580.83604
+2,DALYs (Disability-Adjusted Life Years),558,Ohio,3,Both,22,All Ages,456,Pancreatic cancer,1,Number,2016,38297.16707,41042.27885,35701.18107
+2,DALYs (Disability-Adjusted Life Years),558,Ohio,3,Both,22,All Ages,459,Malignant skin melanoma,1,Number,2016,11451.77204,15890.85376,8661.731296
+2,DALYs (Disability-Adjusted Life Years),558,Ohio,3,Both,22,All Ages,471,Kidney cancer,1,Number,2016,15095.18026,16807.87388,13687.69489
+2,DALYs (Disability-Adjusted Life Years),558,Ohio,3,Both,22,All Ages,474,Bladder cancer,1,Number,2016,14414.30909,15573.40106,13296.49361
+2,DALYs (Disability-Adjusted Life Years),558,Ohio,3,Both,22,All Ages,417,Liver cancer,1,Number,2016,20747.91166,22554.79954,19163.84951
+2,DALYs (Disability-Adjusted Life Years),558,Ohio,3,Both,22,All Ages,429,Breast cancer,1,Number,2016,53304.21925,58574.78793,48283.26675
+2,DALYs (Disability-Adjusted Life Years),558,Ohio,3,Both,22,All Ages,544,Parkinson's disease,1,Number,2016,16077.65833,17487.51193,14060.35072
+2,DALYs (Disability-Adjusted Life Years),558,Ohio,3,Both,22,All Ages,480,Thyroid cancer,1,Number,2016,2132.623539,2439.271198,1898.086625
+2,DALYs (Disability-Adjusted Life Years),558,Ohio,3,Both,22,All Ages,487,Leukemia,1,Number,2016,23444.30912,25509.42909,21611.03558
+2,DALYs (Disability-Adjusted Life Years),558,Ohio,3,Both,22,All Ages,974,Diabetes and kidney diseases,1,Number,2016,252445.6419,296902.5357,212713.595
+2,DALYs (Disability-Adjusted Life Years),559,Oklahoma,3,Both,22,All Ages,417,Liver cancer,1,Number,2016,7273.69301,7911.935157,6624.165397
+2,DALYs (Disability-Adjusted Life Years),559,Oklahoma,3,Both,22,All Ages,544,Parkinson's disease,1,Number,2016,4955.692263,5404.695807,4335.32935
+2,DALYs (Disability-Adjusted Life Years),559,Oklahoma,3,Both,22,All Ages,429,Breast cancer,1,Number,2016,15312.10078,16985.74813,13745.47263
+2,DALYs (Disability-Adjusted Life Years),559,Oklahoma,3,Both,22,All Ages,456,Pancreatic cancer,1,Number,2016,11410.17999,12313.32812,10551.44836
+2,DALYs (Disability-Adjusted Life Years),559,Oklahoma,3,Both,22,All Ages,459,Malignant skin melanoma,1,Number,2016,4019.794175,5222.04794,2777.560003
+2,DALYs (Disability-Adjusted Life Years),559,Oklahoma,3,Both,22,All Ages,471,Kidney cancer,1,Number,2016,5838.335643,6513.81601,5261.516386
+2,DALYs (Disability-Adjusted Life Years),559,Oklahoma,3,Both,22,All Ages,474,Bladder cancer,1,Number,2016,4026.838272,4370.338073,3706.902152
+2,DALYs (Disability-Adjusted Life Years),559,Oklahoma,3,Both,22,All Ages,480,Thyroid cancer,1,Number,2016,627.1936358,719.08004,554.9602028
+2,DALYs (Disability-Adjusted Life Years),559,Oklahoma,3,Both,22,All Ages,974,Diabetes and kidney diseases,1,Number,2016,78656.38595,91821.16253,67135.12898
+2,DALYs (Disability-Adjusted Life Years),559,Oklahoma,3,Both,22,All Ages,487,Leukemia,1,Number,2016,8226.822978,8967.71906,7668.899163
+2,DALYs (Disability-Adjusted Life Years),560,Oregon,3,Both,22,All Ages,544,Parkinson's disease,1,Number,2016,5569.575096,6074.785052,4472.569417
+2,DALYs (Disability-Adjusted Life Years),560,Oregon,3,Both,22,All Ages,471,Kidney cancer,1,Number,2016,4658.287329,5205.923077,4229.524814
+2,DALYs (Disability-Adjusted Life Years),560,Oregon,3,Both,22,All Ages,474,Bladder cancer,1,Number,2016,4372.482217,4756.624088,3995.743343
+2,DALYs (Disability-Adjusted Life Years),560,Oregon,3,Both,22,All Ages,480,Thyroid cancer,1,Number,2016,705.8555904,803.4037488,624.3248685
+2,DALYs (Disability-Adjusted Life Years),560,Oregon,3,Both,22,All Ages,487,Leukemia,1,Number,2016,7195.653637,7844.770685,6680.519599
+2,DALYs (Disability-Adjusted Life Years),560,Oregon,3,Both,22,All Ages,974,Diabetes and kidney diseases,1,Number,2016,65731.06704,77644.73966,55514.26627
+2,DALYs (Disability-Adjusted Life Years),560,Oregon,3,Both,22,All Ages,417,Liver cancer,1,Number,2016,7950.640487,8668.026155,7250.391677
+2,DALYs (Disability-Adjusted Life Years),560,Oregon,3,Both,22,All Ages,429,Breast cancer,1,Number,2016,15672.22,17494.47733,14109.10278
+2,DALYs (Disability-Adjusted Life Years),560,Oregon,3,Both,22,All Ages,456,Pancreatic cancer,1,Number,2016,12652.86236,13634.97465,11688.32471
+2,DALYs (Disability-Adjusted Life Years),560,Oregon,3,Both,22,All Ages,459,Malignant skin melanoma,1,Number,2016,4010.376253,4944.578175,2789.118077
+2,DALYs (Disability-Adjusted Life Years),561,Pennsylvania,3,Both,22,All Ages,544,Parkinson's disease,1,Number,2016,18910.98623,20429.94888,16518.96758
+2,DALYs (Disability-Adjusted Life Years),561,Pennsylvania,3,Both,22,All Ages,417,Liver cancer,1,Number,2016,25253.13721,27341.42291,23334.70853
+2,DALYs (Disability-Adjusted Life Years),561,Pennsylvania,3,Both,22,All Ages,429,Breast cancer,1,Number,2016,57438.79284,63024.41639,51837.64677
+2,DALYs (Disability-Adjusted Life Years),561,Pennsylvania,3,Both,22,All Ages,456,Pancreatic cancer,1,Number,2016,44711.29505,47797.29071,41629.51044
+2,DALYs (Disability-Adjusted Life Years),561,Pennsylvania,3,Both,22,All Ages,459,Malignant skin melanoma,1,Number,2016,12567.07918,17954.95069,9704.415566
+2,DALYs (Disability-Adjusted Life Years),561,Pennsylvania,3,Both,22,All Ages,471,Kidney cancer,1,Number,2016,15440.92215,17442.35217,14046.39622
+2,DALYs (Disability-Adjusted Life Years),561,Pennsylvania,3,Both,22,All Ages,474,Bladder cancer,1,Number,2016,16094.59876,17267.24337,14911.42332
+2,DALYs (Disability-Adjusted Life Years),561,Pennsylvania,3,Both,22,All Ages,480,Thyroid cancer,1,Number,2016,2426.106091,2726.244626,2164.731158
+2,DALYs (Disability-Adjusted Life Years),561,Pennsylvania,3,Both,22,All Ages,487,Leukemia,1,Number,2016,26254.7829,28250.7845,24277.32478
+2,DALYs (Disability-Adjusted Life Years),561,Pennsylvania,3,Both,22,All Ages,974,Diabetes and kidney diseases,1,Number,2016,255486.1296,299538.1148,218008.2998
+2,DALYs (Disability-Adjusted Life Years),562,Rhode Island,3,Both,22,All Ages,544,Parkinson's disease,1,Number,2016,1454.438911,1581.996825,1231.87185
+2,DALYs (Disability-Adjusted Life Years),562,Rhode Island,3,Both,22,All Ages,417,Liver cancer,1,Number,2016,2098.698318,2338.390539,1909.9984
+2,DALYs (Disability-Adjusted Life Years),562,Rhode Island,3,Both,22,All Ages,429,Breast cancer,1,Number,2016,4075.687743,4477.46339,3700.013891
+2,DALYs (Disability-Adjusted Life Years),562,Rhode Island,3,Both,22,All Ages,456,Pancreatic cancer,1,Number,2016,3104.017725,3376.206752,2877.378627
+2,DALYs (Disability-Adjusted Life Years),562,Rhode Island,3,Both,22,All Ages,459,Malignant skin melanoma,1,Number,2016,966.1072977,1403.742719,746.5375023
+2,DALYs (Disability-Adjusted Life Years),562,Rhode Island,3,Both,22,All Ages,471,Kidney cancer,1,Number,2016,1242.675532,1403.22789,1112.81089
+2,DALYs (Disability-Adjusted Life Years),562,Rhode Island,3,Both,22,All Ages,974,Diabetes and kidney diseases,1,Number,2016,17326.68002,20763.17882,14475.13269
+2,DALYs (Disability-Adjusted Life Years),562,Rhode Island,3,Both,22,All Ages,474,Bladder cancer,1,Number,2016,1300.037998,1429.513066,1179.69429
+2,DALYs (Disability-Adjusted Life Years),562,Rhode Island,3,Both,22,All Ages,480,Thyroid cancer,1,Number,2016,186.1238813,209.100564,164.0413
+2,DALYs (Disability-Adjusted Life Years),562,Rhode Island,3,Both,22,All Ages,487,Leukemia,1,Number,2016,1848.061701,2038.668146,1689.043123
+2,DALYs (Disability-Adjusted Life Years),563,South Carolina,3,Both,22,All Ages,487,Leukemia,1,Number,2016,9417.741026,10403.28314,8677.330702
+2,DALYs (Disability-Adjusted Life Years),563,South Carolina,3,Both,22,All Ages,974,Diabetes and kidney diseases,1,Number,2016,106061.7399,124629.8829,90171.58016
+2,DALYs (Disability-Adjusted Life Years),563,South Carolina,3,Both,22,All Ages,456,Pancreatic cancer,1,Number,2016,15812.39152,17043.75348,14649.36723
+2,DALYs (Disability-Adjusted Life Years),563,South Carolina,3,Both,22,All Ages,459,Malignant skin melanoma,1,Number,2016,4477.900181,6611.577567,3412.319226
+2,DALYs (Disability-Adjusted Life Years),563,South Carolina,3,Both,22,All Ages,471,Kidney cancer,1,Number,2016,6214.96958,6990.569853,5575.940582
+2,DALYs (Disability-Adjusted Life Years),563,South Carolina,3,Both,22,All Ages,474,Bladder cancer,1,Number,2016,5105.837697,5565.832596,4690.921742
+2,DALYs (Disability-Adjusted Life Years),563,South Carolina,3,Both,22,All Ages,480,Thyroid cancer,1,Number,2016,801.8197069,909.2941289,708.5398629
+2,DALYs (Disability-Adjusted Life Years),563,South Carolina,3,Both,22,All Ages,417,Liver cancer,1,Number,2016,9305.912072,10080.0275,8608.32751
+2,DALYs (Disability-Adjusted Life Years),563,South Carolina,3,Both,22,All Ages,429,Breast cancer,1,Number,2016,21162.0927,23513.17526,19053.30803
+2,DALYs (Disability-Adjusted Life Years),563,South Carolina,3,Both,22,All Ages,544,Parkinson's disease,1,Number,2016,6276.456122,6828.559428,5452.819579
+2,DALYs (Disability-Adjusted Life Years),564,South Dakota,3,Both,22,All Ages,474,Bladder cancer,1,Number,2016,821.7614977,898.4872342,752.5421174
+2,DALYs (Disability-Adjusted Life Years),564,South Dakota,3,Both,22,All Ages,480,Thyroid cancer,1,Number,2016,159.9914018,179.7260669,142.4119538
+2,DALYs (Disability-Adjusted Life Years),564,South Dakota,3,Both,22,All Ages,487,Leukemia,1,Number,2016,1855.264837,2015.636355,1694.728224
+2,DALYs (Disability-Adjusted Life Years),564,South Dakota,3,Both,22,All Ages,456,Pancreatic cancer,1,Number,2016,2437.808971,2659.214119,2263.637571
+2,DALYs (Disability-Adjusted Life Years),564,South Dakota,3,Both,22,All Ages,459,Malignant skin melanoma,1,Number,2016,773.7995408,1071.558366,598.9200672
+2,DALYs (Disability-Adjusted Life Years),564,South Dakota,3,Both,22,All Ages,471,Kidney cancer,1,Number,2016,1134.388554,1264.741414,1020.198142
+2,DALYs (Disability-Adjusted Life Years),564,South Dakota,3,Both,22,All Ages,974,Diabetes and kidney diseases,1,Number,2016,13890.37716,16348.96659,11757.92979
+2,DALYs (Disability-Adjusted Life Years),564,South Dakota,3,Both,22,All Ages,429,Breast cancer,1,Number,2016,3394.503695,3729.33433,3070.089271
+2,DALYs (Disability-Adjusted Life Years),564,South Dakota,3,Both,22,All Ages,417,Liver cancer,1,Number,2016,1163.719316,1273.301522,1057.854734
+2,DALYs (Disability-Adjusted Life Years),564,South Dakota,3,Both,22,All Ages,544,Parkinson's disease,1,Number,2016,1119.787457,1205.410042,950.9975073
+2,DALYs (Disability-Adjusted Life Years),565,Tennessee,3,Both,22,All Ages,456,Pancreatic cancer,1,Number,2016,20796.6665,22405.53689,19235.54192
+2,DALYs (Disability-Adjusted Life Years),565,Tennessee,3,Both,22,All Ages,459,Malignant skin melanoma,1,Number,2016,6606.481731,8678.900999,4617.70406
+2,DALYs (Disability-Adjusted Life Years),565,Tennessee,3,Both,22,All Ages,471,Kidney cancer,1,Number,2016,8444.412174,9503.989659,7616.51998
+2,DALYs (Disability-Adjusted Life Years),565,Tennessee,3,Both,22,All Ages,474,Bladder cancer,1,Number,2016,6893.392614,7467.358617,6352.248216
+2,DALYs (Disability-Adjusted Life Years),565,Tennessee,3,Both,22,All Ages,417,Liver cancer,1,Number,2016,13188.703,14347.4398,12103.07569
+2,DALYs (Disability-Adjusted Life Years),565,Tennessee,3,Both,22,All Ages,429,Breast cancer,1,Number,2016,27892.5653,30731.24203,25068.59708
+2,DALYs (Disability-Adjusted Life Years),565,Tennessee,3,Both,22,All Ages,480,Thyroid cancer,1,Number,2016,1045.207466,1192.705284,931.727025
+2,DALYs (Disability-Adjusted Life Years),565,Tennessee,3,Both,22,All Ages,487,Leukemia,1,Number,2016,12936.82906,13985.35664,12030.48761
+2,DALYs (Disability-Adjusted Life Years),565,Tennessee,3,Both,22,All Ages,974,Diabetes and kidney diseases,1,Number,2016,133753.4563,156527.9239,113856.6761
+2,DALYs (Disability-Adjusted Life Years),565,Tennessee,3,Both,22,All Ages,544,Parkinson's disease,1,Number,2016,8100.731476,8815.58274,7279.18367
+2,DALYs (Disability-Adjusted Life Years),566,Texas,3,Both,22,All Ages,417,Liver cancer,1,Number,2016,56761.36271,61053.82277,52994.96959
+2,DALYs (Disability-Adjusted Life Years),566,Texas,3,Both,22,All Ages,544,Parkinson's disease,1,Number,2016,27776.60908,30269.28302,23144.11213
+2,DALYs (Disability-Adjusted Life Years),566,Texas,3,Both,22,All Ages,429,Breast cancer,1,Number,2016,89162.92063,98840.81288,80693.25528
+2,DALYs (Disability-Adjusted Life Years),566,Texas,3,Both,22,All Ages,456,Pancreatic cancer,1,Number,2016,61926.97768,65882.1886,58104.27869
+2,DALYs (Disability-Adjusted Life Years),566,Texas,3,Both,22,All Ages,459,Malignant skin melanoma,1,Number,2016,18014.77101,28004.53968,15021.85872
+2,DALYs (Disability-Adjusted Life Years),566,Texas,3,Both,22,All Ages,471,Kidney cancer,1,Number,2016,29791.71813,32466.17449,27489.74214
+2,DALYs (Disability-Adjusted Life Years),566,Texas,3,Both,22,All Ages,474,Bladder cancer,1,Number,2016,18796.14751,20300.37303,17440.86702
+2,DALYs (Disability-Adjusted Life Years),566,Texas,3,Both,22,All Ages,480,Thyroid cancer,1,Number,2016,4117.971885,4612.081603,3663.424804
+2,DALYs (Disability-Adjusted Life Years),566,Texas,3,Both,22,All Ages,974,Diabetes and kidney diseases,1,Number,2016,460021.1744,540867.8092,387536.2787
+2,DALYs (Disability-Adjusted Life Years),566,Texas,3,Both,22,All Ages,487,Leukemia,1,Number,2016,41571.05647,45230.90821,39080.84288
+2,DALYs (Disability-Adjusted Life Years),567,Utah,3,Both,22,All Ages,544,Parkinson's disease,1,Number,2016,2951.881033,3250.174121,2171.394798
+2,DALYs (Disability-Adjusted Life Years),567,Utah,3,Both,22,All Ages,417,Liver cancer,1,Number,2016,2899.800781,3142.582101,2649.944312
+2,DALYs (Disability-Adjusted Life Years),567,Utah,3,Both,22,All Ages,429,Breast cancer,1,Number,2016,8616.049076,9416.849273,7875.809911
+2,DALYs (Disability-Adjusted Life Years),567,Utah,3,Both,22,All Ages,456,Pancreatic cancer,1,Number,2016,5574.617992,6009.65009,5144.863443
+2,DALYs (Disability-Adjusted Life Years),567,Utah,3,Both,22,All Ages,459,Malignant skin melanoma,1,Number,2016,2494.54721,3019.670115,1537.437086
+2,DALYs (Disability-Adjusted Life Years),567,Utah,3,Both,22,All Ages,471,Kidney cancer,1,Number,2016,2223.648105,2472.746636,1999.165178
+2,DALYs (Disability-Adjusted Life Years),567,Utah,3,Both,22,All Ages,474,Bladder cancer,1,Number,2016,1713.597153,1879.651239,1567.731487
+2,DALYs (Disability-Adjusted Life Years),567,Utah,3,Both,22,All Ages,480,Thyroid cancer,1,Number,2016,431.0690861,486.2819963,381.0578323
+2,DALYs (Disability-Adjusted Life Years),567,Utah,3,Both,22,All Ages,487,Leukemia,1,Number,2016,4723.104624,5058.01773,4372.196516
+2,DALYs (Disability-Adjusted Life Years),567,Utah,3,Both,22,All Ages,974,Diabetes and kidney diseases,1,Number,2016,39772.38902,47022.87029,33553.11634
+2,DALYs (Disability-Adjusted Life Years),568,Vermont,3,Both,22,All Ages,544,Parkinson's disease,1,Number,2016,1031.530023,1140.183388,809.5622771
+2,DALYs (Disability-Adjusted Life Years),568,Vermont,3,Both,22,All Ages,974,Diabetes and kidney diseases,1,Number,2016,9766.696334,11697.81081,8101.318941
+2,DALYs (Disability-Adjusted Life Years),568,Vermont,3,Both,22,All Ages,417,Liver cancer,1,Number,2016,930.0501756,1040.28322,846.1266681
+2,DALYs (Disability-Adjusted Life Years),568,Vermont,3,Both,22,All Ages,487,Leukemia,1,Number,2016,1186.184703,1278.149852,1104.334234
+2,DALYs (Disability-Adjusted Life Years),568,Vermont,3,Both,22,All Ages,429,Breast cancer,1,Number,2016,2460.884919,2710.172144,2231.548197
+2,DALYs (Disability-Adjusted Life Years),568,Vermont,3,Both,22,All Ages,456,Pancreatic cancer,1,Number,2016,1889.347179,2022.827724,1757.335399
+2,DALYs (Disability-Adjusted Life Years),568,Vermont,3,Both,22,All Ages,459,Malignant skin melanoma,1,Number,2016,665.619257,850.8662924,470.0365797
+2,DALYs (Disability-Adjusted Life Years),568,Vermont,3,Both,22,All Ages,471,Kidney cancer,1,Number,2016,753.3983837,840.2850966,679.5113064
+2,DALYs (Disability-Adjusted Life Years),568,Vermont,3,Both,22,All Ages,474,Bladder cancer,1,Number,2016,830.314163,910.0943574,760.1946614
+2,DALYs (Disability-Adjusted Life Years),568,Vermont,3,Both,22,All Ages,480,Thyroid cancer,1,Number,2016,105.3596027,119.863458,92.28012123
+2,DALYs (Disability-Adjusted Life Years),569,Virginia,3,Both,22,All Ages,456,Pancreatic cancer,1,Number,2016,23330.02667,24856.1718,21831.38077
+2,DALYs (Disability-Adjusted Life Years),569,Virginia,3,Both,22,All Ages,459,Malignant skin melanoma,1,Number,2016,7358.832336,10538.11681,5690.200129
+2,DALYs (Disability-Adjusted Life Years),569,Virginia,3,Both,22,All Ages,471,Kidney cancer,1,Number,2016,8683.350505,9754.212242,7862.184763
+2,DALYs (Disability-Adjusted Life Years),569,Virginia,3,Both,22,All Ages,474,Bladder cancer,1,Number,2016,7653.578821,8287.798797,7076.516497
+2,DALYs (Disability-Adjusted Life Years),569,Virginia,3,Both,22,All Ages,480,Thyroid cancer,1,Number,2016,1238.937068,1411.068416,1087.332532
+2,DALYs (Disability-Adjusted Life Years),569,Virginia,3,Both,22,All Ages,487,Leukemia,1,Number,2016,13773.53627,14947.37574,12735.08302
+2,DALYs (Disability-Adjusted Life Years),569,Virginia,3,Both,22,All Ages,974,Diabetes and kidney diseases,1,Number,2016,150205.7135,178044.2259,125772.1789
+2,DALYs (Disability-Adjusted Life Years),569,Virginia,3,Both,22,All Ages,544,Parkinson's disease,1,Number,2016,9392.135384,10287.55857,8165.888813
+2,DALYs (Disability-Adjusted Life Years),569,Virginia,3,Both,22,All Ages,417,Liver cancer,1,Number,2016,13958.98633,15140.60351,12904.01324
+2,DALYs (Disability-Adjusted Life Years),569,Virginia,3,Both,22,All Ages,429,Breast cancer,1,Number,2016,33073.99173,36724.69664,29932.09334
+2,DALYs (Disability-Adjusted Life Years),570,Washington,3,Both,22,All Ages,487,Leukemia,1,Number,2016,12591.49321,13543.61972,11766.03115
+2,DALYs (Disability-Adjusted Life Years),570,Washington,3,Both,22,All Ages,974,Diabetes and kidney diseases,1,Number,2016,106232.1498,126468.7649,88418.63761
+2,DALYs (Disability-Adjusted Life Years),570,Washington,3,Both,22,All Ages,456,Pancreatic cancer,1,Number,2016,18854.04533,20356.67802,17465.36285
+2,DALYs (Disability-Adjusted Life Years),570,Washington,3,Both,22,All Ages,459,Malignant skin melanoma,1,Number,2016,6446.600585,8429.23784,4786.050441
+2,DALYs (Disability-Adjusted Life Years),570,Washington,3,Both,22,All Ages,471,Kidney cancer,1,Number,2016,7519.274552,8354.936693,6870.195629
+2,DALYs (Disability-Adjusted Life Years),570,Washington,3,Both,22,All Ages,474,Bladder cancer,1,Number,2016,6817.267282,7410.098722,6264.998588
+2,DALYs (Disability-Adjusted Life Years),570,Washington,3,Both,22,All Ages,480,Thyroid cancer,1,Number,2016,1134.38966,1281.254376,1001.849902
+2,DALYs (Disability-Adjusted Life Years),570,Washington,3,Both,22,All Ages,417,Liver cancer,1,Number,2016,13591.93532,14665.43916,12445.89459
+2,DALYs (Disability-Adjusted Life Years),570,Washington,3,Both,22,All Ages,429,Breast cancer,1,Number,2016,25024.02188,27770.60963,22476.71373
+2,DALYs (Disability-Adjusted Life Years),570,Washington,3,Both,22,All Ages,544,Parkinson's disease,1,Number,2016,8907.041781,9765.737411,7153.861138
+2,DALYs (Disability-Adjusted Life Years),571,West Virginia,3,Both,22,All Ages,480,Thyroid cancer,1,Number,2016,371.5502088,421.3233577,333.1228092
+2,DALYs (Disability-Adjusted Life Years),571,West Virginia,3,Both,22,All Ages,487,Leukemia,1,Number,2016,4647.337703,5070.746162,4292.882729
+2,DALYs (Disability-Adjusted Life Years),571,West Virginia,3,Both,22,All Ages,456,Pancreatic cancer,1,Number,2016,6487.0446,7101.761196,5965.747383
+2,DALYs (Disability-Adjusted Life Years),571,West Virginia,3,Both,22,All Ages,459,Malignant skin melanoma,1,Number,2016,2157.352459,2668.750069,1446.36109
+2,DALYs (Disability-Adjusted Life Years),571,West Virginia,3,Both,22,All Ages,471,Kidney cancer,1,Number,2016,3001.002782,3395.613761,2682.031298
+2,DALYs (Disability-Adjusted Life Years),571,West Virginia,3,Both,22,All Ages,474,Bladder cancer,1,Number,2016,2619.504034,2862.434666,2413.395817
+2,DALYs (Disability-Adjusted Life Years),571,West Virginia,3,Both,22,All Ages,974,Diabetes and kidney diseases,1,Number,2016,51221.26552,59411.13942,44012.38066
+2,DALYs (Disability-Adjusted Life Years),571,West Virginia,3,Both,22,All Ages,417,Liver cancer,1,Number,2016,3640.387692,3984.395461,3347.074722
+2,DALYs (Disability-Adjusted Life Years),571,West Virginia,3,Both,22,All Ages,429,Breast cancer,1,Number,2016,8976.058162,9996.927063,8029.077921
+2,DALYs (Disability-Adjusted Life Years),571,West Virginia,3,Both,22,All Ages,544,Parkinson's disease,1,Number,2016,3031.324944,3295.317065,2650.458076
+2,DALYs (Disability-Adjusted Life Years),572,Wisconsin,3,Both,22,All Ages,456,Pancreatic cancer,1,Number,2016,17812.171,19104.14553,16576.62586
+2,DALYs (Disability-Adjusted Life Years),572,Wisconsin,3,Both,22,All Ages,459,Malignant skin melanoma,1,Number,2016,5033.966339,7038.908869,3819.767764
+2,DALYs (Disability-Adjusted Life Years),572,Wisconsin,3,Both,22,All Ages,471,Kidney cancer,1,Number,2016,7254.200703,7936.526018,6640.660325
+2,DALYs (Disability-Adjusted Life Years),572,Wisconsin,3,Both,22,All Ages,417,Liver cancer,1,Number,2016,9092.097799,9898.929334,8381.634654
+2,DALYs (Disability-Adjusted Life Years),572,Wisconsin,3,Both,22,All Ages,429,Breast cancer,1,Number,2016,20157.47231,22349.87887,18044.44848
+2,DALYs (Disability-Adjusted Life Years),572,Wisconsin,3,Both,22,All Ages,474,Bladder cancer,1,Number,2016,5993.139656,6534.261495,5489.16853
+2,DALYs (Disability-Adjusted Life Years),572,Wisconsin,3,Both,22,All Ages,480,Thyroid cancer,1,Number,2016,982.0811506,1120.869068,861.5862949
+2,DALYs (Disability-Adjusted Life Years),572,Wisconsin,3,Both,22,All Ages,487,Leukemia,1,Number,2016,11303.92586,12238.35773,10526.42395
+2,DALYs (Disability-Adjusted Life Years),572,Wisconsin,3,Both,22,All Ages,974,Diabetes and kidney diseases,1,Number,2016,95019.65587,113314.491,79369.11907
+2,DALYs (Disability-Adjusted Life Years),572,Wisconsin,3,Both,22,All Ages,544,Parkinson's disease,1,Number,2016,7554.01232,8202.035548,6333.390474
+2,DALYs (Disability-Adjusted Life Years),573,Wyoming,3,Both,22,All Ages,417,Liver cancer,1,Number,2016,882.8290531,975.629698,801.6540599
+2,DALYs (Disability-Adjusted Life Years),573,Wyoming,3,Both,22,All Ages,544,Parkinson's disease,1,Number,2016,710.1785244,770.1506646,587.6517786
+2,DALYs (Disability-Adjusted Life Years),573,Wyoming,3,Both,22,All Ages,429,Breast cancer,1,Number,2016,2062.086659,2279.765666,1874.245113
+2,DALYs (Disability-Adjusted Life Years),573,Wyoming,3,Both,22,All Ages,456,Pancreatic cancer,1,Number,2016,1577.649022,1707.191195,1462.998629
+2,DALYs (Disability-Adjusted Life Years),573,Wyoming,3,Both,22,All Ages,459,Malignant skin melanoma,1,Number,2016,589.1833012,754.3406218,407.4808477
+2,DALYs (Disability-Adjusted Life Years),573,Wyoming,3,Both,22,All Ages,471,Kidney cancer,1,Number,2016,654.0911894,729.0289526,587.4001211
+2,DALYs (Disability-Adjusted Life Years),573,Wyoming,3,Both,22,All Ages,474,Bladder cancer,1,Number,2016,570.0321795,623.7651015,523.2396857
+2,DALYs (Disability-Adjusted Life Years),573,Wyoming,3,Both,22,All Ages,480,Thyroid cancer,1,Number,2016,102.7534221,116.6482021,91.07415773
+2,DALYs (Disability-Adjusted Life Years),573,Wyoming,3,Both,22,All Ages,487,Leukemia,1,Number,2016,1159.921775,1253.990231,1074.484968
+2,DALYs (Disability-Adjusted Life Years),573,Wyoming,3,Both,22,All Ages,974,Diabetes and kidney diseases,1,Number,2016,8273.046274,9784.337335,6958.349292
